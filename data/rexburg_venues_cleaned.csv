@@ -1,0 +1,784 @@
+grid_section_lat,grid_section_long,venue,v_lat,v_long,category,group,type
+43.838999900000005,-111.805790533333,Madison County Fair,43.830931729225206,-111.796750886438,Flea Market,Flea Market,Shop & Service
+43.838999900000005,-111.805790533333,The Church of Jesus Christ of Latter-day Saints,43.829912,-111.800706,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.805790533333,Nature Park,43.83479773968389,-111.80126399326099,Park,Park,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Eagle park,43.8373598311527,-111.798076348852,Park,Park,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Great Scott's,43.8251285,-111.7889202,Gas Station,Gas Station,Shop & Service
+43.838999900000005,-111.805790533333,Broulim's Grocery Store,43.8268944010623,-111.787574183731,Grocery Store,Food & Drink Shop,Shop & Service
+43.838999900000005,-111.805790533333,Idaho Mattress Outlet - Rexburg,43.8264155799977,-111.788892745972,Furniture / Home Store,Furniture / Home Store,Shop & Service
+43.838999900000005,-111.805790533333,BMC - Building Materials & Construction Services,43.82653,-111.790121,Hardware Store,Hardware Store,Shop & Service
+43.838999900000005,-111.805790533333,Wolfe Lighting & Accents,43.82663,-111.791044,Lighting Store,Furniture / Home Store,Shop & Service
+43.838999900000005,-111.805790533333,Taqueria la Fondita,43.82524,-111.788644733333,Mexican Restaurant,Mexican Restaurant,Food
+43.838999900000005,-111.805790533333,Jamba Juice,43.827121000000005,-111.78854799999999,Juice Bar,Juice Bar,Food
+43.838999900000005,-111.805790533333,Platt Electric Supply,43.833,-111.8,Hardware Store,Hardware Store,Shop & Service
+43.838999900000005,-111.805790533333,Rexburg Airport,43.831588159882,-111.806660459809,Airport Terminal,Airport,Travel & Transport
+43.838999900000005,-111.805790533333,The Hickory,43.82515002714431,-111.788511639203,BBQ Joint,BBQ Joint,Food
+43.838999900000005,-111.805790533333,D&T auto,43.82455945014951,-111.792749762535,Gas Station,Gas Station,Shop & Service
+43.838999900000005,-111.805790533333,Izcalli Mexican Food,43.826316,-111.78866200000002,Mexican Restaurant,Mexican Restaurant,Food
+43.838999900000005,-111.805790533333,Twin Pines Manor,43.829954790135204,-111.786233876294,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.838999900000005,-111.805790533333,eagle park,43.826399,-111.789391,Campground,Campground,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Head Start Preschool,43.829773664474494,-111.78553998470301,College Academic Building,College Academic Building,College & University
+43.838999900000005,-111.805790533333,noble romans,43.825347,-111.789309,Pizza Place,Pizza Place,Food
+43.838999900000005,-111.805790533333,Rexburg Rapids,43.83147052496849,-111.78546482559,Pool,Pool,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Cambridge Court,43.8257891147391,-111.796100471474,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.838999900000005,-111.805790533333,Flamm Funeral Home,43.829029999999996,-111.792639,Funeral Home,Funeral Home,Professional & Other Places
+43.838999900000005,-111.805790533333,R&S Automotive,43.82215207763169,-111.79736817700399,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.805790533333,Madison Gymnastics,43.8262732009081,-111.792701137016,Gymnastics Gym,Athletics & Sports,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Mickelsen's Home Center,43.826544284820606,-111.789504289627,Hardware Store,Hardware Store,Shop & Service
+43.838999900000005,-111.805790533333,Hair We Are,43.827168,-111.788415,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.838999900000005,-111.805790533333,Church Ball In Rexburg,43.8217281802003,-111.80188221018801,Basketball Court,Athletics & Sports,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Tacos Izcalli,43.8260841369629,-111.78835296630899,Taco Place,Mexican Restaurant,Food
+43.838999900000005,-111.805790533333,Clair Boyle Skate Park,43.8346970437531,-111.79992198944099,Skate Park,Athletics & Sports,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Gaduru,43.827120563994995,-111.78865919301201,Electronics Store,Electronics Store,Shop & Service
+43.838999900000005,-111.805790533333,Rexburg Animal Shelter,43.833441,-111.79771699999999,Animal Shelter,Animal Shelter,Professional & Other Places
+43.838999900000005,-111.805790533333,Rexburg Wellness Spa,43.8257653975544,-111.79282595662201,Spa,Spa,Shop & Service
+43.838999900000005,-111.805790533333,Rexburg YSA 3rd Ward,43.8298366603976,-111.80065155029301,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.805790533333,Back To Health Chiropractic,43.824677,-111.789703,Chiropractor,Medical Center,Professional & Other Places
+43.838999900000005,-111.805790533333,Etech,43.827943,-111.78928,Electronics Store,Electronics Store,Shop & Service
+43.838999900000005,-111.805790533333,Nature Trail,43.8344091172473,-111.801251016476,Trail,Trail,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Grace Baptist Church,43.831946,-111.789395,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.805790533333,Maverik Adventures First Stop,43.8256911834152,-111.789907598621,Gas Station,Gas Station,Shop & Service
+43.838999900000005,-111.805790533333,Super 8,43.825679,-111.7906,Motel,Hotel,Travel & Transport
+43.838999900000005,-111.805790533333,The Raspberry Garden,43.822276,-111.79498999999998,Hotel,Hotel,Travel & Transport
+43.838999900000005,-111.805790533333,Grand Tetons,43.82657647132871,-111.797025203705,Trail,Trail,Outdoors & Recreation
+43.838999900000005,-111.805790533333,awesomenessville,43.8309440612793,-111.800971984863,Speakeasy,Bar,Nightlife Spot
+43.838999900000005,-111.805790533333,Gubbins & Games,43.8242080785632,-111.79066536365801,Gaming Cafe,Gaming Cafe,Shop & Service
+43.838999900000005,-111.805790533333,izcali,43.826335072517395,-111.788640618324,Food Truck,Food Truck,Food
+43.838999900000005,-111.805790533333,Archibald Insurance Agency,43.8260130870596,-111.788098812103,Coworking Space,Office,Professional & Other Places
+43.838999900000005,-111.805790533333,JB's,43.823944091796896,-111.79730224609399,American Restaurant,American Restaurant,Food
+43.838999900000005,-111.805790533333,Art Guild Of Rexburg,43.8320426940918,-111.793685913086,Art Gallery,Art Gallery,Arts & Entertainment
+43.838999900000005,-111.805790533333,lovesac,43.827714,-111.788771,General Entertainment,General Entertainment,Arts & Entertainment
+43.838999900000005,-111.805790533333,J14 magazine,43.82897,-111.79291599999999,Bookstore,Bookstore,Shop & Service
+43.838999900000005,-111.805790533333,Taqueria el rancho,43.826227,-111.796999,Mexican Restaurant,Mexican Restaurant,Food
+43.838999900000005,-111.805790533333,Mango Moose,43.824427534333104,-111.789767035504,Dessert Shop,Dessert Shop,Food
+43.838999900000005,-111.805790533333,Park Street Park,43.8222589356875,-111.798666715622,Playground,Playground,Outdoors & Recreation
+43.838999900000005,-111.805790533333,M9 Creations Office,43.825707,-111.792258,Building,Building,Professional & Other Places
+43.838999900000005,-111.805790533333,Seed House,43.828204,-111.789528,Other Great Outdoors,Other Great Outdoors,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Self Carwash,43.8245239257813,-111.795288085938,Building,Building,Professional & Other Places
+43.838999900000005,-111.805790533333,Snell Grove Town Homes,43.825036,-111.793974,Housing Development,Housing Development,Residence
+43.838999900000005,-111.805790533333,Premier Site Furniture,43.8292019951375,-111.789847612381,Furniture / Home Store,Furniture / Home Store,Shop & Service
+43.838999900000005,-111.805790533333,Ace Hardware,43.828602,-111.787224,Hardware Store,Hardware Store,Shop & Service
+43.838999900000005,-111.805790533333,Zippy Lube,43.828602,-111.787224,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.805790533333,West Main Ward,43.8220157004576,-111.803838671539,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.805790533333,Carriage Cove,43.828559000000006,-111.79577900000001,Rehab Center,Medical Center,Professional & Other Places
+43.838999900000005,-111.805790533333,St. Patrick's Catholic Church,43.825253000000004,-111.792725,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.805790533333,Conoco Gas Station,43.825072999999996,-111.789083,Gas Station,Gas Station,Shop & Service
+43.838999900000005,-111.805790533333,Evergreen - Kiwanis Park,43.825156,-111.806247,Park,Park,Outdoors & Recreation
+43.838999900000005,-111.805790533333,The Medicine Shoppe,43.82583590052939,-111.78930389421801,Pharmacy,Pharmacy,Shop & Service
+43.838999900000005,-111.805790533333,Legacy Flight Museum,43.82616264476,-111.80652910281,Museum,Museum,Arts & Entertainment
+43.838999900000005,-111.805790533333,Rexburg Golf Course,43.82608382402229,-111.80559221431801,Golf Course,Athletics & Sports,Outdoors & Recreation
+43.838999900000005,-111.805790533333,Eagle Park Campgrounds,43.8353935630791,-111.79636001586901,Campground,Campground,Outdoors & Recreation
+43.838999900000005,-111.8024656,Idaho Central Credit Union,43.83981667,-111.77875,Credit Union,Credit Union,Shop & Service
+43.838999900000005,-111.8024656,Deseret Industries,43.838809999999995,-111.77938059999998,Thrift / Vintage Store,Thrift / Vintage Store,Shop & Service
+43.838999900000005,-111.8024656,Wendy's,43.837381500606796,-111.778804957867,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.8024656,Coinstar,43.8262,-111.7875,Bank,Bank,Shop & Service
+43.838999900000005,-111.8024656,Rexburg Family History Center,43.8274345397949,-111.78500366210899,Library,Library,Professional & Other Places
+43.838999900000005,-111.8024656,Madison School District Office,43.8322548333333,-111.780762816667,College Administrative Building,College Administrative Building,College & University
+43.838999900000005,-111.8024656,Madison County Library,43.82783453850121,-111.784661836616,Library,Library,Professional & Other Places
+43.838999900000005,-111.8024656,Big Five,43.838681758425,-111.778893214541,Sporting Goods Shop,Sporting Goods Shop,Shop & Service
+43.838999900000005,-111.8024656,Madison Junior High,43.8285491023287,-111.785413172646,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.8024656,LDS Seminary Building,43.823439654863606,-111.80503432679501,Spiritual Center,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.8024656,Redbox,43.82734,-111.787405,Video Store,Video Store,Shop & Service
+43.838999900000005,-111.8024656,Pete's Command Center,43.828464508056605,-111.78425598144501,Military Base,Military Base,Professional & Other Places
+43.838999900000005,-111.8024656,LDS Distribution Center,43.838547386661304,-111.77917440193,Boutique,Clothing Store,Shop & Service
+43.838999900000005,-111.8024656,Madison Park Apartments,43.830009000000004,-111.797274,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.838999900000005,-111.8024656,The Soda Vine,43.8248376777776,-111.789837888299,Ice Cream Shop,Dessert Shop,Food
+43.838999900000005,-111.8024656,Book Viking,43.8253255359891,-111.78855478032101,Bookstore,Bookstore,Shop & Service
+43.838999900000005,-111.799140666667,Walmart Pharmacy,43.83733,-111.77807,Pharmacy,Pharmacy,Shop & Service
+43.838999900000005,-111.799140666667,Verizon Authorized Retailer – GoWireless,43.8366392160336,-111.778427705185,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.838999900000005,-111.799140666667,Supercuts,43.836327,-111.778884,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.838999900000005,-111.799140666667,GoWireless Verizon Authorized Retailer,43.836737,-111.778469,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.838999900000005,-111.799140666667,Maurices,43.834702,-111.77886000000001,Women's Store,Clothing Store,Shop & Service
+43.838999900000005,-111.799140666667,Dollar Tree,43.83452928573791,-111.779350460567,Discount Store,Discount Store,Shop & Service
+43.838999900000005,-111.799140666667,Jack in the Box,43.8357513,-111.77857560000001,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.799140666667,rent a center,43.836253881454496,-111.778694987297,Furniture / Home Store,Furniture / Home Store,Shop & Service
+43.838999900000005,-111.799140666667,Heaven's Best Carpet Cleaning,43.83169,-111.78213999999998,Home Service,Home Service,Shop & Service
+43.838999900000005,-111.799140666667,Jensen Jewelers,43.836737,-111.778469,Jewelry Store,Jewelry Store,Shop & Service
+43.838999900000005,-111.799140666667,Cricket Wireless Authorized Retailer,43.836327,-111.778884,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.838999900000005,-111.799140666667,Auto Zone,43.839203201119396,-111.77763607577499,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.799140666667,Hõkūlià,43.8377696743252,-111.77816862074499,Dessert Shop,Dessert Shop,Food
+43.838999900000005,-111.799140666667,Middletown Apartments,43.828618,-111.78335,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.838999900000005,-111.799140666667,T-Rex Burgers,43.8376,-111.77855,Burger Joint,Burger Joint,Food
+43.838999900000005,-111.799140666667,Teton Lanes,43.838145,-111.779323,Bowling Alley,Bowling Alley,Arts & Entertainment
+43.838999900000005,-111.799140666667,Los Locos Churrería,43.82613,-111.788315,Mexican Restaurant,Mexican Restaurant,Food
+43.838999900000005,-111.795815733333,Halloween City,43.834077799999996,-111.77803970000001,Costume Shop,Costume Shop,Shop & Service
+43.838999900000005,-111.795815733333,Dan's Ace Hardware.,43.837548999999996,-111.7779,Hardware Store,Hardware Store,Shop & Service
+43.838999900000005,-111.795815733333,AutoZone Auto Parts,43.8388293640689,-111.777402553985,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.795815733333,A2 Global Shipping,43.834532,-111.77808300000001,Post Office,Post Office,Professional & Other Places
+43.838999900000005,-111.795815733333,Cash Store,43.8367201888679,-111.778582386488,Financial or Legal Service,Financial or Legal Service,Shop & Service
+43.838999900000005,-111.795815733333,Bealls,43.83332,-111.77887,Department Store,Department Store,Shop & Service
+43.838999900000005,-111.795815733333,Grease Monkey,43.838381,-111.777521,Gas Station,Gas Station,Shop & Service
+43.838999900000005,-111.795815733333,Arby's,43.8361424,-111.77753840000001,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.795815733333,Coinstar,43.8357,-111.7779,Bank,Bank,Shop & Service
+43.838999900000005,-111.795815733333,McDonald's,43.833766309824,-111.778582772276,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.795815733333,Redbox,43.834790999999996,-111.778072,Video Store,Video Store,Shop & Service
+43.838999900000005,-111.795815733333,C-A-L Ranch Stores,43.8345095997676,-111.77746494843599,Miscellaneous Shop,Miscellaneous Shop,Shop & Service
+43.838999900000005,-111.795815733333,Nature's Nook,43.83283761797029,-111.779193613332,Miscellaneous Shop,Miscellaneous Shop,Shop & Service
+43.838999900000005,-111.795815733333,Orchard Chiropractic,43.832989000000005,-111.779164,Chiropractor,Medical Center,Professional & Other Places
+43.838999900000005,-111.795815733333,Redbox,43.834547,-111.778074,Video Store,Video Store,Shop & Service
+43.838999900000005,-111.795815733333,The Wishing Well Bookstore,43.827941,-111.784578,Bookstore,Bookstore,Shop & Service
+43.838999900000005,-111.79249080000001,Walmart Auto Care Centers,43.8374,-111.77537579999999,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.79249080000001,U.S. Bank ATM,43.83648925,-111.77545481,ATM,ATM,Shop & Service
+43.838999900000005,-111.79249080000001,Albertsons Pharmacy,43.8364963687189,-111.77550154930901,Pharmacy,Pharmacy,Shop & Service
+43.838999900000005,-111.79249080000001,Sears Hometown Store,43.83982279999999,-111.7774014,Electronics Store,Electronics Store,Shop & Service
+43.838999900000005,-111.79249080000001,Sally's Beauty Supply,43.83685725731149,-111.776152641281,Cosmetics Shop,Cosmetics Shop,Shop & Service
+43.838999900000005,-111.79249080000001,June's Place,43.8319108851511,-111.77819609642,Coffee Shop,Coffee Shop,Food
+43.838999900000005,-111.79249080000001,Albertsons,43.8364017,-111.7754723,Grocery Store,Food & Drink Shop,Shop & Service
+43.838999900000005,-111.79249080000001,Subway,43.83274,-111.778541,Sandwich Place,Sandwich Place,Food
+43.838999900000005,-111.79249080000001,Dairy Queen,43.8335052029381,-111.7776247859,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.79249080000001,Rays Carwash,43.8325435502396,-111.77870409936399,Car Wash,Car Wash,Shop & Service
+43.838999900000005,-111.79249080000001,chesbro music,43.8315239919788,-111.778862470242,Music Store,Music Store,Shop & Service
+43.838999900000005,-111.79249080000001,Citizens Community Bank,43.835677,-111.776905,Bank,Bank,Shop & Service
+43.838999900000005,-111.79249080000001,Westmark,43.8371697718996,-111.77634650756599,Bank,Bank,Shop & Service
+43.838999900000005,-111.79249080000001,Poor Boys Auto Repair,43.840099,-111.776425,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.79249080000001,Chevron,43.8317704608317,-111.77822588976801,Gas Station,Gas Station,Shop & Service
+43.838999900000005,-111.79249080000001,Business Development & Entrepreneurial Center,43.832299458447,-111.777791735259,Tech Startup,Office,Professional & Other Places
+43.838999900000005,-111.79249080000001,Downeast Outfitters,43.836698071495505,-111.77625981325701,Clothing Store,Clothing Store,Shop & Service
+43.838999900000005,-111.79249080000001,AT&T - Spring Mobile,43.8317947387695,-111.77871513366699,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.838999900000005,-111.79249080000001,BIG 5 Sporting Goods,43.839664,-111.776649,Sporting Goods Shop,Sporting Goods Shop,Shop & Service
+43.838999900000005,-111.789165866667,AT&T,43.8316990976735,-111.77890475215,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.838999900000005,-111.789165866667,Bell Black Insurance,43.8310654,-111.77845159999998,Financial or Legal Service,Financial or Legal Service,Shop & Service
+43.838999900000005,-111.789165866667,1st Floor Loo @RDC,43.8345801830292,-111.774719953537,Event Space,Event Space,Professional & Other Places
+43.838999900000005,-111.789165866667,Fat Cats Rexburg,43.8361033,-111.7807532,Bowling Alley,Bowling Alley,Arts & Entertainment
+43.838999900000005,-111.789165866667,Rfinity-Rexburg Office,43.83175302,-111.77801072,Office,Office,Professional & Other Places
+43.838999900000005,-111.789165866667,Corda,43.8340189,-111.775349233333,Tech Startup,Office,Professional & Other Places
+43.838999900000005,-111.789165866667,Kynetx - Rexburg Office,43.8347726977631,-111.774362919102,Office,Office,Professional & Other Places
+43.838999900000005,-111.789165866667,Aspen Ridge Dental,43.8319596692581,-111.776865865489,Dentist's Office,Medical Center,Professional & Other Places
+43.838999900000005,-111.789165866667,Standard Plumbing,43.830738,-111.779077,Hardware Store,Hardware Store,Shop & Service
+43.838999900000005,-111.789165866667,AffinityAmp-Stone Pagoda,43.832312,-111.777482,Tech Startup,Office,Professional & Other Places
+43.838999900000005,-111.789165866667,Business Development Center,43.83459627628329,-111.774580478668,Office,Office,Professional & Other Places
+43.838999900000005,-111.78584093333299,Metro by T-Mobile,43.830842,-111.777534,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.838999900000005,-111.78584093333299,Sonic Drive-In,43.8306424,-111.7774937,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.78584093333299,Eminent Hi Fi,43.8308618833333,-111.77765635,Building,Building,Professional & Other Places
+43.838999900000005,-111.78584093333299,Dr. Hopkin,43.831813812255895,-111.77642822265601,Doctor's Office,Medical Center,Professional & Other Places
+43.838999900000005,-111.78584093333299,SIRI Cybersecurity Center,43.834659576415994,-111.774238586426,Tech Startup,Office,Professional & Other Places
+43.838999900000005,-111.78584093333299,Appible,43.8345417652066,-111.774045090543,Tech Startup,Office,Professional & Other Places
+43.838999900000005,-111.78584093333299,Madison Memorial Surgery Center,43.83431891,-111.77296441,Medical Center,Medical Center,Professional & Other Places
+43.838999900000005,-111.78584093333299,Openbook,43.8341553008789,-111.77440881729099,Office,Office,Professional & Other Places
+43.838999900000005,-111.78584093333299,Bank Of Commerce,43.830006,-111.778508,Building,Building,Professional & Other Places
+43.838999900000005,-111.78584093333299,Department of Health and Welfare,43.833861,-111.773941,Government Building,Government Building,Professional & Other Places
+43.838999900000005,-111.78584093333299,GamePulse,43.830841,-111.77754399999999,Video Game Store,Video Game Store,Shop & Service
+43.838999900000005,-111.78584093333299,Upper Valley Family Practicw,43.831746558001,-111.776339269368,Doctor's Office,Medical Center,Professional & Other Places
+43.838999900000005,-111.78251599999999,Costa Vida,43.8365860022995,-111.778883677927,Mexican Restaurant,Mexican Restaurant,Food
+43.838999900000005,-111.78251599999999,Teton River Village,43.836967,-111.77906999999999,Shopping Plaza,Shopping Plaza,Shop & Service
+43.838999900000005,-111.78251599999999,Sushi Bar & Asian Fusion,43.836656,-111.77847299999999,Sushi Restaurant,Asian Restaurant,Food
+43.838999900000005,-111.78251599999999,Mandarin Restaurant,43.84018,-111.77741026,Chinese Restaurant,Asian Restaurant,Food
+43.838999900000005,-111.78251599999999,Karie Anne's Delectable Desserts Mobile Location,43.837839055440206,-111.778421401978,Ice Cream Shop,Dessert Shop,Food
+43.838999900000005,-111.78251599999999,Cold Stone Creamery,43.836327,-111.778884,Ice Cream Shop,Dessert Shop,Food
+43.838999900000005,-111.78251599999999,Dino-Mite Fireworks,43.8341255187988,-111.778335571289,Miscellaneous Shop,Miscellaneous Shop,Shop & Service
+43.838999900000005,-111.78251599999999,KFC,43.8379623452449,-111.777628323431,Fried Chicken Joint,Fried Chicken Joint,Food
+43.838999900000005,-111.78251599999999,Downeast Outlet,43.83470183951421,-111.778979261731,Clothing Store,Clothing Store,Shop & Service
+43.838999900000005,-111.78251599999999,Computer Medical Center,43.831641,-111.778872,Electronics Store,Electronics Store,Shop & Service
+43.838999900000005,-111.78251599999999,Cinema 6,43.836132,-111.78087,Movie Theater,Movie Theater,Arts & Entertainment
+43.838999900000005,-111.77919106666701,Tire Factory,43.8393498833333,-111.769501483333,Automotive Shop,Automotive Shop,Shop & Service
+43.838999900000005,-111.77919106666701,Stonebridge Ward Chapel,43.8394433333333,-111.7695242,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.77919106666701,Brentwood,43.8319091397089,-111.774349100574,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.838999900000005,-111.77919106666701,Karie Anne's,43.832610717675706,-111.77747190129,Juice Bar,Juice Bar,Food
+43.838999900000005,-111.77919106666701,Pizza Pie Café,43.8313561963733,-111.777675009452,Pizza Place,Pizza Place,Food
+43.838999900000005,-111.775866133333,Rotary Park,43.830751,-111.767524,Playground,Playground,Outdoors & Recreation
+43.838999900000005,-111.775866133333,Derma Chic,43.8305844666667,-111.77231501666701,Doctor's Office,Medical Center,Professional & Other Places
+43.838999900000005,-111.775866133333,The Church of Jesus Christ of Latter-day Saints,43.829741,-111.774542,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.775866133333,Vickie's Palace of Fine Arts,43.830083,-111.77544499999999,Art Museum,Museum,Arts & Entertainment
+43.838999900000005,-111.7725412,The PC Penguin - Rexburg Computer Repair,43.828443483901204,-111.773593425751,Miscellaneous Shop,Miscellaneous Shop,Shop & Service
+43.838999900000005,-111.7725412,Rexburg Cemetary,43.8316910179862,-111.764685443819,Housing Development,Housing Development,Residence
+43.838999900000005,-111.7725412,Veteran's Memorial Service,43.827127676239996,-111.77376508712798,Historic Site,Historic Site,Arts & Entertainment
+43.838999900000005,-111.7725412,The Church of Jesus Christ of Latter-day Saints,43.832269,-111.765748,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.7725412,Mill Hollow 1st,43.832124,-111.765825,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.7725412,Mill Hollow 3rd Ward,43.83235,-111.76585,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.7725412,LDS Church,43.8298042743407,-111.774561325767,Church,Spiritual Center,Professional & Other Places
+43.838999900000005,-111.7725412,Madison High School,43.8313912096786,-111.769470545961,High School,School,Professional & Other Places
+43.838999900000005,-111.7725412,Rexburg Medical Center,43.830742171023296,-111.772709992342,Medical Center,Medical Center,Professional & Other Places
+43.838999900000005,-111.7725412,Smith Park West Diamond,43.8277343977934,-111.772530768182,Baseball Field,Athletics & Sports,Outdoors & Recreation
+43.838999900000005,-111.769216266667,Fancy Nails,43.82998657296479,-111.777418522283,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.838999900000005,-111.769216266667,"Las Ll's Imports, Inc.",43.82993,-111.77726000000001,Grocery Store,Food & Drink Shop,Shop & Service
+43.838999900000005,-111.765891333333,Hidden Valley Park,43.8267207111078,-111.76680015482,Playground,Playground,Outdoors & Recreation
+43.838999900000005,-111.7625664,Sonic,43.830898,-111.777375,Fast Food Restaurant,Fast Food Restaurant,Food
+43.838999900000005,-111.759241466667,PBnJ Media,43.8246198213174,-111.767392158508,Office,Office,Professional & Other Places
+43.8366017,-111.805790533333,Real Deals,43.8213201010876,-111.79764996261,Flea Market,Flea Market,Shop & Service
+43.8366017,-111.805790533333,Elizabeth Custom Rings offices,43.8239593505859,-111.79055023193399,Jewelry Store,Jewelry Store,Shop & Service
+43.8366017,-111.8024656,Rexburg Water Reclamation Plant,43.837011,-111.80033200000001,Recycling Facility,Recycling Facility,Shop & Service
+43.8366017,-111.799140666667,Garth Wilcox CPA,43.827937,-111.783395,Financial or Legal Service,Financial or Legal Service,Shop & Service
+43.8366017,-111.799140666667,Rexburg Water Reclamation Facility,43.8363222428676,-111.79962158203101,Recycling Facility,Recycling Facility,Shop & Service
+43.8366017,-111.799140666667,Porter Park Church,43.8241859668692,-111.789255522867,Church,Spiritual Center,Professional & Other Places
+43.8366017,-111.799140666667,Original Thai LLC,43.825784,-111.783387,Restaurant,Restaurant,Food
+43.8366017,-111.799140666667,Teton Flood Museum,43.8274527608306,-111.784451007843,History Museum,Museum,Arts & Entertainment
+43.8366017,-111.799140666667,The Floral Shoppe,43.827936,-111.781611,Professional & Other Places,Professional & Other Places,Professional & Other Places
+43.8366017,-111.799140666667,Sup Shack,43.825241,-111.789093,Café,Café,Food
+43.8366017,-111.799140666667,bambino,43.824432373046896,-111.789413452148,Food Truck,Food Truck,Food
+43.8366017,-111.799140666667,Running For Sweets,43.8255615234375,-111.78857421875,Dessert Shop,Dessert Shop,Food
+43.8366017,-111.799140666667,Clay's House Of Fire,43.82498,-111.788284,Building,Building,Professional & Other Places
+43.8366017,-111.799140666667,Rexburg Tabernacle,43.8271179623515,-111.78466289325199,Concert Hall,Concert Hall,Arts & Entertainment
+43.8366017,-111.799140666667,JB's Restaurant,43.826379,-111.788393,Food,Food,Food
+43.8366017,-111.799140666667,Red Rabbit Grill,43.825287,-111.788436,Restaurant,Restaurant,Food
+43.8366017,-111.795815733333,The Church of Jesus Christ of Latter-day Saints,43.824426,-111.788901,Church,Spiritual Center,Professional & Other Places
+43.8366017,-111.795815733333,The Doghouse,43.824779,-111.78675,Food Truck,Food Truck,Food
+43.8366017,-111.795815733333,Mountain Shores Apartments,43.832708000000004,-111.788956,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8366017,-111.795815733333,Zions First National Bank,43.825679,-111.788101,Bank,Bank,Shop & Service
+43.8366017,-111.795815733333,AlphaGraphics,43.8242246,-111.7899862,Print Shop,Print Shop,Shop & Service
+43.8366017,-111.795815733333,Tammy Sluder - State Farm Insurance Agent,43.825714000000005,-111.79213,Office,Office,Professional & Other Places
+43.8366017,-111.795815733333,Pizza Hut,43.82577604067001,-111.78879752755199,Pizza Place,Pizza Place,Food
+43.8366017,-111.795815733333,Homestead Assisted Leaving,43.8269947017978,-111.795426016478,Assisted Living,Assisted Living,Residence
+43.8366017,-111.795815733333,Domino's Pizza,43.8256763841516,-111.78863525390601,Pizza Place,Pizza Place,Food
+43.8366017,-111.78251599999999,Advance Auto Parts,43.828428003979695,-111.778479740024,Automotive Shop,Automotive Shop,Shop & Service
+43.8366017,-111.78251599999999,Clair and Dee's Point S,43.828733,-111.778532,Automotive Shop,Automotive Shop,Shop & Service
+43.8366017,-111.78251599999999,CARQUEST Auto Parts,43.828434,-111.778478,Automotive Shop,Automotive Shop,Shop & Service
+43.8366017,-111.77919106666701,Adams Elementary School,43.828499,-111.777672,Elementary School,School,Professional & Other Places
+43.8366017,-111.7725412,Madison Junior High School,43.829223,-111.769385,College Academic Building,College Academic Building,College & University
+43.8366017,-111.7625664,Red Beetle Graphics,43.824634,-111.77033700000001,Nightlife Spot,Nightlife Spot,Nightlife Spot
+43.8366017,-111.7625664,The Paragon,43.825163866712295,-111.770581585091,Deli / Bodega,Deli / Bodega,Food
+43.8366017,-111.7625664,Smith Park,43.8251514575848,-111.775515258843,Park,Park,Outdoors & Recreation
+43.8342035,-111.8024656,Tic's Honey Pot,43.8212851233505,-111.798382966563,Tea Room,Tea Room,Food
+43.8342035,-111.799140666667,Taco Bell,43.8263323191661,-111.78453994475402,Fast Food Restaurant,Fast Food Restaurant,Food
+43.8342035,-111.799140666667,H&R Block,43.826455,-111.784098,Financial or Legal Service,Financial or Legal Service,Shop & Service
+43.8342035,-111.799140666667,Melaleuca Call Center,43.8252716971248,-111.785762188785,Coworking Space,Office,Professional & Other Places
+43.8342035,-111.799140666667,The Cocoa Lodge,43.826401081733295,-111.78488506351499,Café,Café,Food
+43.8342035,-111.799140666667,Rexburg YSA 1st Ward,43.824667,-111.78896499999999,Building,Building,Professional & Other Places
+43.8342035,-111.795815733333,Farmers Insurance,43.8261,-111.78410559999999,Insurance Office,Insurance Office,Shop & Service
+43.8342035,-111.795815733333,Smashed,43.826455,-111.784098,Sandwich Place,Sandwich Place,Food
+43.8342035,-111.795815733333,Ramire's Mexican Food,43.8258324504322,-111.78474410573,Mexican Restaurant,Mexican Restaurant,Food
+43.8342035,-111.795815733333,Red Gallery,43.826541999999996,-111.78411799999999,Art Gallery,Art Gallery,Arts & Entertainment
+43.8342035,-111.795815733333,Thor's Ice Cream,43.8264499207273,-111.784186162408,Dessert Shop,Dessert Shop,Food
+43.8342035,-111.795815733333,Gandolfo's Food Truck,43.82644708903871,-111.784752953166,Food Truck,Food Truck,Food
+43.8342035,-111.795815733333,Snoasis,43.8262443436337,-111.784866921631,Ice Cream Shop,Dessert Shop,Food
+43.8342035,-111.79249080000001,second helpings thrift store,43.82654873594561,-111.783357577556,Thrift / Vintage Store,Thrift / Vintage Store,Shop & Service
+43.8342035,-111.79249080000001,Allstate,43.8265310110287,-111.783536359285,Office,Office,Professional & Other Places
+43.8342035,-111.78584093333299,Olive Ave,43.82637716,-111.78196603,Clothing Store,Clothing Store,Shop & Service
+43.8342035,-111.78251599999999,Fair Land,43.83008,-111.77768,Ice Cream Shop,Dessert Shop,Food
+43.8342035,-111.78251599999999,The Singing Waffle,43.82978,-111.77855600000001,Karaoke Bar,Bar,Nightlife Spot
+43.8342035,-111.7725412,The Home Town Dry Clean/Laundry,43.8278846740723,-111.777168273926,Laundry Service,Laundry Service,Shop & Service
+43.8342035,-111.7725412,Teton Cleaners and Laundry,43.828051,-111.77685600000001,Dry Cleaner,Dry Cleaner,Shop & Service
+43.8342035,-111.7725412,Ellison Orthodontics,43.8278961181641,-111.777182221413,Dentist's Office,Medical Center,Professional & Other Places
+43.8342035,-111.7625664,Washington Federal Bank,43.827961740914404,-111.777579131192,Bank,Bank,Shop & Service
+43.8342035,-111.759241466667,O'Reilly Auto Parts,43.827359879699706,-111.778708398342,Automotive Shop,Automotive Shop,Shop & Service
+43.8342035,-111.759241466667,New Madison High School,43.822392583273604,-111.76941038670401,High School,School,Professional & Other Places
+43.8342035,-111.759241466667,Liberty Tax,43.827149,-111.778072,Financial or Legal Service,Financial or Legal Service,Shop & Service
+43.8342035,-111.759241466667,Syringa Wireless,43.826459,-111.779787,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.8342035,-111.759241466667,Sprint Eastern Idaho Wireless,43.8262502008515,-111.780135655874,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.8342035,-111.759241466667,Rexburg auto repair,43.8267922998254,-111.77976113149201,Automotive Shop,Automotive Shop,Shop & Service
+43.8342035,-111.759241466667,Garner Law Office,43.82619821329921,-111.78022543884,Lawyer,Lawyer,Shop & Service
+43.8342035,-111.759241466667,Rudd and Company,43.826101223038904,-111.780449667473,Office,Office,Professional & Other Places
+43.8342035,-111.759241466667,Rexburg Chamber Of Commerce,43.82598386810229,-111.77978547811199,Building,Building,Professional & Other Places
+43.8342035,-111.759241466667,Upper Valley Orthopedics,43.825764,-111.77333999999999,Doctor's Office,Medical Center,Professional & Other Places
+43.8342035,-111.759241466667,Family Dollar,43.829524,-111.778718,Discount Store,Discount Store,Shop & Service
+43.8342035,-111.759241466667,Redbox,43.825522,-111.778784,Video Store,Video Store,Shop & Service
+43.8342035,-111.759241466667,Ace Hardware,43.8265,-111.78048999999999,Hardware Store,Hardware Store,Shop & Service
+43.83180529999999,-111.805790533333,Ace Hardware,43.8180765833333,-111.80448799999999,Hardware Store,Hardware Store,Shop & Service
+43.83180529999999,-111.805790533333,Railroad Tracks,43.821841,-111.794655,Light Rail Station,Light Rail Station,Travel & Transport
+43.83180529999999,-111.805790533333,Remember Flags,43.819961,-111.797082,Gift Shop,Gift Shop,Shop & Service
+43.83180529999999,-111.805790533333,Idaho Centennial Carousel,43.822266676448706,-111.79211139679,Historic Site,Historic Site,Arts & Entertainment
+43.83180529999999,-111.805790533333,Maxwell,43.820974,-111.794172,General Entertainment,General Entertainment,Arts & Entertainment
+43.83180529999999,-111.805790533333,Prosper Inc.,43.8184150797659,-111.80288486586299,Coworking Space,Office,Professional & Other Places
+43.83180529999999,-111.805790533333,AMX international,43.818572998046896,-111.802841186523,Office,Office,Professional & Other Places
+43.83180529999999,-111.805790533333,Cimarron court,43.819561,-111.79773899999999,Housing Development,Housing Development,Residence
+43.83180529999999,-111.805790533333,Campus Courtyard,43.820128335867395,-111.796271454925,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.83180529999999,-111.799140666667,Kennedy Elementary,43.8219540899559,-111.79281311713899,Elementary School,School,Professional & Other Places
+43.83180529999999,-111.799140666667,Crazy Mike's Video,43.8235516288926,-111.789321899414,Video Store,Video Store,Shop & Service
+43.83180529999999,-111.799140666667,Porter Park,43.822623197151394,-111.791046540724,Park,Park,Outdoors & Recreation
+43.83180529999999,-111.799140666667,Nielsen's Frozen Custard,43.82341056220589,-111.789196116703,Dessert Shop,Dessert Shop,Food
+43.83180529999999,-111.795815733333,Jimmy John's,43.8237,-111.789238,Sandwich Place,Sandwich Place,Food
+43.83180529999999,-111.79249080000001,Madison-Rexburg fire station,43.826994,-111.783468,Fire Station,Government Building,Professional & Other Places
+43.83180529999999,-111.79249080000001,Melaleuca,43.825315610994,-111.78571689030501,Coworking Space,Office,Professional & Other Places
+43.83180529999999,-111.79249080000001,El Gene's?,43.825695,-111.784941,Electronics Store,Electronics Store,Shop & Service
+43.83180529999999,-111.79249080000001,Alpine Jewelers,43.825831,-111.784043,Jewelry Store,Jewelry Store,Shop & Service
+43.83180529999999,-111.79249080000001,Allstate Insurance Agent: Zach Batte,43.82632131316151,-111.783122848956,Insurance Office,Insurance Office,Shop & Service
+43.83180529999999,-111.79249080000001,Progrexion,43.82621523927791,-111.78343604719,Office,Office,Professional & Other Places
+43.83180529999999,-111.79249080000001,Preventive Pest Control,43.826366,-111.78342,Building,Building,Professional & Other Places
+43.83180529999999,-111.79249080000001,rexdeals,43.8260440481512,-111.783785820007,University,University,College & University
+43.83180529999999,-111.789165866667,The homestead,43.8268530333333,-111.781281816667,Medical Center,Medical Center,Professional & Other Places
+43.83180529999999,-111.789165866667,Great Harvest Bread Co,43.8261334432137,-111.783121347132,Bakery,Bakery,Food
+43.83180529999999,-111.789165866667,Wells Fargo,43.826455,-111.782738,Bank,Bank,Shop & Service
+43.83180529999999,-111.789165866667,Paradise Donuts,43.825557,-111.784055,Donut Shop,Donut Shop,Food
+43.83180529999999,-111.789165866667,Basic Living,43.826132861627705,-111.783204028858,Miscellaneous Shop,Miscellaneous Shop,Shop & Service
+43.83180529999999,-111.789165866667,U-Haul Neighborhood Dealer,43.826532,-111.78246899999999,Storage Facility,Storage Facility,Shop & Service
+43.83180529999999,-111.789165866667,paramount twin,43.8251388072968,-111.783973574638,Movie Theater,Movie Theater,Arts & Entertainment
+43.83180529999999,-111.789165866667,Reflections Hair & Nail Design,43.825739,-111.782752,Cosmetics Shop,Cosmetics Shop,Shop & Service
+43.83180529999999,-111.789165866667,Madison Memorial Hospital Education Department,43.8266632666107,-111.781511306763,Hospital,Medical Center,Professional & Other Places
+43.83180529999999,-111.789165866667,Original Thai,43.825871,-111.783336,Thai Restaurant,Asian Restaurant,Food
+43.83180529999999,-111.789165866667,Family Crisis Center,43.825864180340204,-111.783293455406,Building,Building,Professional & Other Places
+43.83180529999999,-111.789165866667,Paramount 5,43.8251666405888,-111.784252445161,Multiplex,Movie Theater,Arts & Entertainment
+43.83180529999999,-111.789165866667,Fongs Restaurant,43.825739,-111.782752,Asian Restaurant,Asian Restaurant,Food
+43.83180529999999,-111.789165866667,Rexburg Police Department,43.826423,-111.782927,Police Station,Government Building,Professional & Other Places
+43.83180529999999,-111.789165866667,The Hair Company,43.826612097059794,-111.78192034617099,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.83180529999999,-111.789165866667,Woodward Ballroom,43.82647,-111.781625,Event Space,Event Space,Professional & Other Places
+43.83180529999999,-111.789165866667,Treasure Formal Bridal-N-Tux's,43.825767,-111.782976,Bridal Shop,Bridal Shop,Shop & Service
+43.83180529999999,-111.789165866667,Gugelman Photography,43.825812,-111.78305300000001,Art Gallery,Art Gallery,Arts & Entertainment
+43.83180529999999,-111.789165866667,Innov8,43.82624750235829,-111.782049727035,Art Gallery,Art Gallery,Arts & Entertainment
+43.83180529999999,-111.789165866667,Sharp's Custom Framing & Art,43.8261894790775,-111.78205957726,Art Gallery,Art Gallery,Arts & Entertainment
+43.83180529999999,-111.789165866667,Holiday Theater,43.825496,-111.78394399999999,Movie Theater,Movie Theater,Arts & Entertainment
+43.83180529999999,-111.78584093333299,"Kettle Embroidery, LLC",43.826287866186306,-111.781795620918,Clothing Store,Clothing Store,Shop & Service
+43.83180529999999,-111.78584093333299,Rexburg Farmers Market,43.826879991554,-111.78045988082899,Farmers Market,Food & Drink Shop,Shop & Service
+43.83180529999999,-111.78251599999999,Sherwin-Williams Paint Store,43.82726699842421,-111.780502796173,Hardware Store,Hardware Store,Shop & Service
+43.83180529999999,-111.78251599999999,U.S. Bank Branch,43.82637024,-111.78126529999999,Bank,Bank,Shop & Service
+43.83180529999999,-111.78251599999999,U.S. Bank ATM,43.826395,-111.781269882334,ATM,ATM,Shop & Service
+43.83180529999999,-111.78251599999999,Park View Apartments,43.8264257823877,-111.780968947353,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.83180529999999,-111.78251599999999,BYUI Tutoring Center,43.8262062072754,-111.783462524414,Student Center,Student Center,College & University
+43.83180529999999,-111.7725412,Smith Park Tennis Courts,43.825149676265404,-111.775495895688,Gym,Athletics & Sports,Outdoors & Recreation
+43.83180529999999,-111.7725412,Seasons Medical Plaza,43.825109,-111.776844,Doctor's Office,Medical Center,Professional & Other Places
+43.83180529999999,-111.7725412,Magic Suds,43.8252106198907,-111.77558443003001,Building,Building,Professional & Other Places
+43.83180529999999,-111.765891333333,Madison Park Dental Center,43.8230077269726,-111.772681985047,Dentist's Office,Medical Center,Professional & Other Places
+43.83180529999999,-111.765891333333,Madison Foot and Ankle,43.82332406,-111.77269432,Medical Center,Medical Center,Professional & Other Places
+43.83180529999999,-111.765891333333,Mountain Ridge,43.8234900163314,-111.77418316143101,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.83180529999999,-111.7625664,Madison Memorial Hospital,43.825141703553896,-111.775567119542,Hospital,Medical Center,Professional & Other Places
+43.83180529999999,-111.759241466667,Seasons Medical,43.8255718897596,-111.77784204483,Doctor's Office,Medical Center,Professional & Other Places
+43.83180529999999,-111.759241466667,Dr. Archibald,43.8240852355957,-111.776718139648,Optical Shop,Optical Shop,Shop & Service
+43.83180529999999,-111.759241466667,Eye Care Center,43.82410828,-111.77677269,Doctor's Office,Medical Center,Professional & Other Places
+43.8294071,-111.805790533333,Century 21,43.8209716001019,-111.792791404154,Real Estate Office,Real Estate Office,Shop & Service
+43.8294071,-111.805790533333,East Idaho Credit Union,43.81748047262939,-111.800483194802,Credit Union,Credit Union,Shop & Service
+43.8294071,-111.805790533333,conoco car wash,43.8174896240234,-111.800453186035,Car Wash,Car Wash,Shop & Service
+43.8294071,-111.805790533333,custom auto,43.818199157714794,-111.798973083496,Automotive Shop,Automotive Shop,Shop & Service
+43.8294071,-111.805790533333,Splash Park @ Porter Park,43.821001683697794,-111.79282228606701,Park,Park,Outdoors & Recreation
+43.8294071,-111.805790533333,Mariah St Park,43.816832415151204,-111.80517911911,Park,Park,Outdoors & Recreation
+43.8294071,-111.805790533333,Village Clubhouse,43.819364805963104,-111.79636257228901,General Entertainment,General Entertainment,Arts & Entertainment
+43.8294071,-111.805790533333,Steiner Ave,43.8202438354492,-111.794189453125,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8294071,-111.799140666667,Righteous Slice,43.821907,-111.78969599999999,Pizza Place,Pizza Place,Food
+43.8294071,-111.795815733333,Hemming Village,43.822468,-111.787645,Shopping Mall,Shopping Mall,Shop & Service
+43.8294071,-111.795815733333,Deseret Book,43.822125,-111.789128,Bookstore,Bookstore,Shop & Service
+43.8294071,-111.795815733333,Gator Jack's Sandwich Shack,43.822028607008704,-111.788700672702,Sandwich Place,Sandwich Place,Food
+43.8294071,-111.795815733333,Lulu & Oliver,43.822140999999995,-111.7883,Clothing Store,Clothing Store,Shop & Service
+43.8294071,-111.79249080000001,Northpoint Apartments,43.823777,-111.786456,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8294071,-111.79249080000001,La Jolla,43.824413,-111.78634,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8294071,-111.79249080000001,Opinionology,43.824462890625,-111.78512156009701,Office,Office,Professional & Other Places
+43.8294071,-111.789165866667,BYU-Idaho Alumni Center,43.82497826241139,-111.783766428832,College Administrative Building,College Administrative Building,College & University
+43.8294071,-111.78584093333299,The Cocoa Bean,43.825500021562796,-111.782397732537,Cupcake Shop,Dessert Shop,Food
+43.8294071,-111.78584093333299,Grifols Biomat Plasma Donation Center,43.82568,-111.78216,Doctor's Office,Medical Center,Professional & Other Places
+43.8294071,-111.78584093333299,Mike's Music,43.82574,-111.781893,Record Shop,Record Shop,Shop & Service
+43.8294071,-111.78584093333299,New York Burrito,43.825688,-111.781188,Burrito Place,Mexican Restaurant,Food
+43.8294071,-111.78584093333299,EcoShield Pest Control,43.82523,-111.78265,Conference Room,Office,Professional & Other Places
+43.8294071,-111.78584093333299,Panache,43.8260001471338,-111.782240149264,Boutique,Clothing Store,Shop & Service
+43.8294071,-111.78584093333299,Charles Block,43.825793,-111.78248799999999,Public Art,Public Art,Arts & Entertainment
+43.8294071,-111.78584093333299,The Circle Of Love,43.825704,-111.781726,Bridal Shop,Bridal Shop,Shop & Service
+43.8294071,-111.78584093333299,Form,43.82574,-111.781893,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.8294071,-111.78584093333299,Dragon's Layer,43.825822722431795,-111.78210514550699,Gaming Cafe,Gaming Cafe,Shop & Service
+43.8294071,-111.78584093333299,BRC’s and We're Twisted Pretzels,43.8251616507479,-111.78299188613899,Food,Food,Food
+43.8294071,-111.78584093333299,Thomas D. Snarr DDS PA,43.824907,-111.784149,Dentist's Office,Medical Center,Professional & Other Places
+43.8294071,-111.78251599999999,Rexburg City Hall,43.8269185260736,-111.781463455223,City Hall,Government Building,Professional & Other Places
+43.8294071,-111.78251599999999,Florence's Exquisite Candies,43.8253097237426,-111.78276692551701,Candy Store,Candy Store,Shop & Service
+43.8294071,-111.78251599999999,A.C. Moore,43.8251141223915,-111.78237583284799,Arts & Crafts Store,Arts & Crafts Store,Shop & Service
+43.8294071,-111.78251599999999,Community Care Urgent Care,43.825796000000004,-111.78125700000001,Urgent Care Center,Medical Center,Professional & Other Places
+43.8294071,-111.78251599999999,Community Care,43.8257930933039,-111.781381352511,Doctor's Office,Medical Center,Professional & Other Places
+43.8294071,-111.78251599999999,Madison County Courthouse,43.826389,-111.779565,Courthouse,Government Building,Professional & Other Places
+43.8294071,-111.77919106666701,odell's,43.8256738744483,-111.779383116173,Furniture / Home Store,Furniture / Home Store,Shop & Service
+43.8294071,-111.77919106666701,Walgreens,43.8256575,-111.7789507,Pharmacy,Pharmacy,Shop & Service
+43.8294071,-111.77919106666701,Mark Hancock - State Farm Insurance Agent,43.827317,-111.77779,Office,Office,Professional & Other Places
+43.8294071,-111.77919106666701,Madison County Sheriff,43.8260071836318,-111.779779910369,Police Station,Government Building,Professional & Other Places
+43.8294071,-111.77919106666701,Millhollow Frozen Yogurt,43.8246418888147,-111.78139601241699,Dessert Shop,Dessert Shop,Food
+43.8294071,-111.77919106666701,Papa Murphy's,43.827681,-111.777726,Pizza Place,Pizza Place,Food
+43.8294071,-111.77919106666701,"Nathan C. McKellar, DO",43.825082,-111.77768600000002,Doctor's Office,Medical Center,Professional & Other Places
+43.8294071,-111.77919106666701,KeyBank,43.82567,-111.780499,Bank,Bank,Shop & Service
+43.8294071,-111.77919106666701,Sticks And Stones,43.8262459856262,-111.782349145574,Bike Shop,Bike Shop,Shop & Service
+43.8294071,-111.77919106666701,Sprint,43.8262372972052,-111.78016800697,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.8294071,-111.77919106666701,Freddy's Frozen Custard & Steakburgers,43.82700964,-111.77775083,Fast Food Restaurant,Fast Food Restaurant,Food
+43.8294071,-111.7725412,Madison County Administration,43.825718955888604,-111.779773235321,Government Building,Government Building,Professional & Other Places
+43.8294071,-111.769216266667,madison womens clinic,43.82348811821031,-111.772737494246,Medical Center,Medical Center,Professional & Other Places
+43.8294071,-111.765891333333,The Escape House,43.825103000000006,-111.77833000000001,Other Nightlife,Other Nightlife,Nightlife Spot
+43.8294071,-111.759241466667,The Church of Jesus Christ of Latter-day Saints,43.817674,-111.77162,Church,Spiritual Center,Professional & Other Places
+43.8270089,-111.805790533333,Les Schwab Tire Center,43.8173358392576,-111.797659024816,Automotive Shop,Automotive Shop,Shop & Service
+43.8270089,-111.805790533333,Enterprise Rent-A-Car,43.8284287,-111.79000590000001,Rental Car Location,Rental Car Location,Travel & Transport
+43.8270089,-111.805790533333,Magic Suds,43.8179858823311,-111.795694828033,Laundry Service,Laundry Service,Shop & Service
+43.8270089,-111.805790533333,The Church of Jesus Christ of Latter-day Saints,43.817740461008704,-111.803831869087,Church,Spiritual Center,Professional & Other Places
+43.8270089,-111.805790533333,Legacy flight museum,43.81770143402721,-111.79609528072001,History Museum,Museum,Arts & Entertainment
+43.8270089,-111.805790533333,Seasons Medical Women's Center,43.8171511888504,-111.799278259277,Doctor's Office,Medical Center,Professional & Other Places
+43.8270089,-111.805790533333,NeatFreaks Mobile Detailing,43.816848,-111.80119099999999,Office,Office,Professional & Other Places
+43.8270089,-111.805790533333,Heartland Apartments,43.815643680609796,-111.805882185254,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.805790533333,Frontier Pies,43.818035,-111.797323,American Restaurant,American Restaurant,Food
+43.8270089,-111.805790533333,Cougar Court Clubhouse,43.81598858947769,-111.80394530296302,Gym,Athletics & Sports,Outdoors & Recreation
+43.8270089,-111.805790533333,The Church of Jesus Christ of Latter-day Saints,43.822038,-111.803983,Church,Spiritual Center,Professional & Other Places
+43.8270089,-111.799140666667,Namasté Wellness Spa,43.822117,-111.788402,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.8270089,-111.799140666667,chikn it out,43.819431733593696,-111.792829651765,Fried Chicken Joint,Fried Chicken Joint,Food
+43.8270089,-111.799140666667,Arbor Cove,43.821292,-111.789942,Building,Building,Professional & Other Places
+43.8270089,-111.795815733333,Idaho Repair,43.822025,-111.78763000000001,IT Services,IT Services,Shop & Service
+43.8270089,-111.795815733333,SSI,43.82213,-111.788124,Business Center,Business Center,Professional & Other Places
+43.8270089,-111.795815733333,Grifols Biomat Plasma Donation Center 2,43.821661999999996,-111.788633,Doctor's Office,Medical Center,Professional & Other Places
+43.8270089,-111.795815733333,The Willows,43.8225850193899,-111.786848687066,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.795815733333,Hemming Villiage 3,43.8218666311882,-111.78825959379,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.79249080000001,Bingham And Sons,43.8256667230986,-111.783910220286,Building,Building,Professional & Other Places
+43.8270089,-111.79249080000001,Gringo's Mexican Restaurant,43.825086,-111.783478,Mexican Restaurant,Mexican Restaurant,Food
+43.8270089,-111.789165866667,Alphagraphics,43.8241540938349,-111.784531027649,Design Studio,Design Studio,Shop & Service
+43.8270089,-111.789165866667,Upper Valley Family Practice,43.8242956244438,-111.78525358684401,Doctor's Office,Medical Center,Professional & Other Places
+43.8270089,-111.789165866667,USPS office,43.823627,-111.784162,Post Office,Post Office,Professional & Other Places
+43.8270089,-111.789165866667,B'dazzled Hair & Nails,43.824380174920705,-111.784375107139,Nail Salon,Nail Salon,Shop & Service
+43.8270089,-111.789165866667,Quick Ship n Copy,43.824301,-111.7845785,Paper / Office Supplies Store,Paper / Office Supplies Store,Shop & Service
+43.8270089,-111.789165866667,Everyday Floral,43.824403000000004,-111.78429799999999,Flower Shop,Flower Shop,Shop & Service
+43.8270089,-111.789165866667,Teton Medical Group,43.824426,-111.785024,Doctor's Office,Medical Center,Professional & Other Places
+43.8270089,-111.789165866667,Twizl Berry,43.824419,-111.784196,Dessert Shop,Dessert Shop,Food
+43.8270089,-111.78584093333299,Allen Ridge,43.824609,-111.783458,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.78584093333299,Beehive Federal Credit Union,43.824337,-111.783406,Credit Union,Credit Union,Shop & Service
+43.8270089,-111.78251599999999,Rexburg Standard Journal,43.8258454338468,-111.78052551491501,Building,Building,Professional & Other Places
+43.8270089,-111.78251599999999,Soup For You,43.82445,-111.78213500000001,Restaurant,Restaurant,Food
+43.8270089,-111.78251599999999,The Craze Fun Zone,43.82523,-111.78265,Arcade,Arcade,Arts & Entertainment
+43.8270089,-111.78251599999999,D&L Cleaners & Shirt Laundry,43.824409,-111.784589,Dry Cleaner,Dry Cleaner,Shop & Service
+43.8270089,-111.78251599999999,The Romance Theater,43.825705,-111.78353,Music Venue,Music Venue,Arts & Entertainment
+43.8270089,-111.78251599999999,Skizzy's,43.825005,-111.78253000000001,Rock Club,Music Venue,Arts & Entertainment
+43.8270089,-111.78251599999999,Gubbinz N Games,43.825588,-111.782583,Hobby Shop,Hobby Shop,Shop & Service
+43.8270089,-111.78251599999999,Paul Mitchell The School Rexburg,43.814359496655506,-111.803860845898,School,School,Professional & Other Places
+43.8270089,-111.78251599999999,Pinnacle Point,43.824763586177994,-111.78066313989099,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.78251599999999,mandrin chinese,43.8243091525187,-111.780972026719,Chinese Restaurant,Asian Restaurant,Food
+43.8270089,-111.78251599999999,El Andante,43.8249588012695,-111.782890319824,Market,Market,Shop & Service
+43.8270089,-111.77919106666701,Rexburg Vision Center,43.824165,-111.782135,Doctor's Office,Medical Center,Professional & Other Places
+43.8270089,-111.77919106666701,Ashby Chiropractic,43.824128,-111.78213500000001,Chiropractor,Medical Center,Professional & Other Places
+43.8270089,-111.77919106666701,Ryan Ward,43.823386,-111.77903799999999,Moving Target,Moving Target,Travel & Transport
+43.8270089,-111.77919106666701,Mountain River Foot & Ankle Care,43.823671708011204,-111.781264423318,Medical Center,Medical Center,Professional & Other Places
+43.8270089,-111.77919106666701,eagle vision center rexburg,43.82390188974671,-111.78104057908101,Medical Center,Medical Center,Professional & Other Places
+43.8270089,-111.775866133333,Pinnacle Security,43.824623401965695,-111.78055101623899,Office,Office,Professional & Other Places
+43.8270089,-111.7725412,Greenbrier,43.822520000000004,-111.77937,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.7725412,The Blue Door,43.823423999999996,-111.779169,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.7725412,Greenbrier Apts,43.8225466741697,-111.779426795321,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.7725412,American Belle,43.82269086712339,-111.779864946569,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.7725412,Academy 4,43.8232917133392,-111.77926460391001,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.769216266667,American Avenue Apartments,43.822599600000004,-111.78094840000001,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.769216266667,American Belle G house,43.822139,-111.779674,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.769216266667,Danbury,43.821715999999995,-111.779082,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8270089,-111.769216266667,rexburg opinion center,43.82438659667971,-111.78140258789101,Building,Building,Professional & Other Places
+43.8270089,-111.759241466667,The Church of Jesus Christ of Latter-day Saints,43.8126978772192,-111.762000790615,Church,Spiritual Center,Professional & Other Places
+43.8270089,-111.759241466667,Rebecca Lyman Cello Studio,43.8178520202637,-111.774795532227,Music School,School,Professional & Other Places
+43.8246107,-111.805790533333,Madison Middle School,43.81532604390701,-111.80201054490601,Middle School,School,Professional & Other Places
+43.8246107,-111.805790533333,sutherland cabinets,43.814352,-111.802448,Conference Room,Office,Professional & Other Places
+43.8246107,-111.805790533333,BYU IDAHO HINCKLEY BUILDING,43.81607089304671,-111.80307028199499,General College & University,General College & University,College & University
+43.8246107,-111.805790533333,Star Light Star Bright,43.816391794682104,-111.80487848485501,Strip Club,Strip Club,Nightlife Spot
+43.8246107,-111.805790533333,Fall Creek Skin,43.8170511167539,-111.799186173382,Doctor's Office,Medical Center,Professional & Other Places
+43.8246107,-111.8024656,Graffiti beauty Salon,43.817417,-111.795259,Cosmetics Shop,Cosmetics Shop,Shop & Service
+43.8246107,-111.8024656,Four Paws Pet Adoptions,43.8177557812912,-111.79500164362301,Non-Profit,Non-Profit,Professional & Other Places
+43.8246107,-111.8024656,Condie Cottage,43.81963,-111.791881,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.8024656,Sinclair,43.815713050248796,-111.799027476975,Gas Station,Gas Station,Shop & Service
+43.8246107,-111.799140666667,Taco Time,43.820087,-111.790025,Taco Place,Mexican Restaurant,Food
+43.8246107,-111.799140666667,Wisteria,43.8200263977051,-111.79001617431601,Boutique,Clothing Store,Shop & Service
+43.8246107,-111.799140666667,Eagle Rock Dental Care,43.817298610191,-111.799828701852,Dentist's Office,Medical Center,Professional & Other Places
+43.8246107,-111.795815733333,Tami's Salon,43.820641,-111.789836,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.8246107,-111.795815733333,Days Inn,43.820122,-111.78879,Hotel,Hotel,Travel & Transport
+43.8246107,-111.795815733333,CR Signage,43.820090630295404,-111.78951832604099,Miscellaneous Shop,Miscellaneous Shop,Shop & Service
+43.8246107,-111.795815733333,CentralPark Apartments,43.81875537279431,-111.79587170727899,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.795815733333,Kiwi Loco,43.8220687038593,-111.788055694154,Ice Cream Shop,Dessert Shop,Food
+43.8246107,-111.79249080000001,Papa John's Pizza,43.822357,-111.786127,Pizza Place,Pizza Place,Food
+43.8246107,-111.79249080000001,The Atrium,43.8220968653983,-111.788156131952,General Entertainment,General Entertainment,Arts & Entertainment
+43.8246107,-111.79249080000001,Port of Subs,43.822082,-111.786207,Sandwich Place,Sandwich Place,Food
+43.8246107,-111.79249080000001,Cafe Rio,43.82205211231171,-111.786171656063,Mexican Restaurant,Mexican Restaurant,Food
+43.8246107,-111.79249080000001,Campus View,43.820416741007605,-111.788127929868,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.79249080000001,Sunrise Village Apts,43.82261422890229,-111.78543533701901,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.79249080000001,Stadium Studio,43.820322999999995,-111.790121,College Classroom,College Classroom,College & University
+43.8246107,-111.789165866667,Tanning bed@ The Retreat,43.820919036865206,-111.787055969238,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.8246107,-111.789165866667,Ferrell's Clothing Company,43.822117,-111.788402,Men's Store,Clothing Store,Shop & Service
+43.8246107,-111.789165866667,Frisky's Cafe,43.822123,-111.78877800000001,Salad Place,Salad Place,Food
+43.8246107,-111.789165866667,wellness center,43.8218152611195,-111.786660008846,Medical Center,Medical Center,Professional & Other Places
+43.8246107,-111.789165866667,Ferguson Music Company,43.823627,-111.784162,Music Store,Music Store,Shop & Service
+43.8246107,-111.789165866667,BYU-I Outdoor Resource Center,43.8212216646115,-111.786231994629,Sporting Goods Shop,Sporting Goods Shop,Shop & Service
+43.8246107,-111.789165866667,The Retreat,43.8209932665531,-111.786983125639,Tanning Salon,Tanning Salon,Shop & Service
+43.8246107,-111.78584093333299,Little Caesars Pizza,43.824288028232495,-111.784756730937,Pizza Place,Pizza Place,Food
+43.8246107,-111.78584093333299,US Post Office,43.8230120751502,-111.784235181206,Post Office,Post Office,Professional & Other Places
+43.8246107,-111.78584093333299,The Cut Above,43.8248306123273,-111.78287247227301,Salon / Barbershop,Salon / Barbershop,Shop & Service
+43.8246107,-111.78584093333299,Rexburg Tabernacle,43.822762355138494,-111.783219249629,Historic Site,Historic Site,Arts & Entertainment
+43.8246107,-111.78584093333299,lukes,43.823078870773294,-111.78253054618799,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.78584093333299,BYUI Stadium Booth,43.8223671491767,-111.78463834453699,Stadium,Stadium,Arts & Entertainment
+43.8246107,-111.78584093333299,Student Tech Media Lab,43.82218920888229,-111.783507750374,College Lab,College Lab,College & University
+43.8246107,-111.77919106666701,The Church of Jesus Christ of Latter-day Saints,43.822299,-111.781401,Church,Spiritual Center,Professional & Other Places
+43.8246107,-111.77919106666701,Aalita,43.8220688321698,-111.780669637708,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.77919106666701,Windsor Manor,43.822240992504604,-111.779714080494,College Residence Hall,College Residence Hall,College & University
+43.8246107,-111.775866133333,Cafe Snow,43.82079962486209,-111.77918379433001,Café,Café,Food
+43.8246107,-111.775866133333,Dr. bryan Lee DDS,43.8208955526352,-111.780926585197,Dentist's Office,Medical Center,Professional & Other Places
+43.8246107,-111.775866133333,Crestwood,43.8210509207415,-111.780227710508,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.7725412,UWrench,43.8190933515865,-111.768114270097,Automotive Shop,Automotive Shop,Shop & Service
+43.8246107,-111.7725412,Barnes Hall Lounge,43.819598,-111.77861000000001,Sorority House,Sorority House,College & University
+43.8246107,-111.7725412,Kensington Manor,43.818955551247996,-111.777697419806,College Residence Hall,College Residence Hall,College & University
+43.8246107,-111.7725412,The Basement,43.821999999999996,-111.78072900000001,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.769216266667,Ricks Hall,43.818663069376605,-111.77893461372601,College Administrative Building,College Administrative Building,College & University
+43.8246107,-111.769216266667,Riviera Apartments,43.820549,-111.780334,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.769216266667,Pioneer Halls,43.8188136266286,-111.779200457874,College Residence Hall,College Residence Hall,College & University
+43.8246107,-111.769216266667,Kerr Hall,43.8192884723242,-111.779403214763,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.769216266667,Barnes Hall,43.819211925423296,-111.778982003547,Housing Development,Housing Development,Residence
+43.8246107,-111.769216266667,Perkins hall,43.81923482051351,-111.780343694656,College Residence Hall,College Residence Hall,College & University
+43.8246107,-111.769216266667,kerr hall,43.8194404332548,-111.77915850276301,College Residence Hall,College Residence Hall,College & University
+43.8246107,-111.769216266667,University Court Yard,43.816958,-111.77694,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8246107,-111.769216266667,Lamprecht Hall,43.81854804393649,-111.77945108726699,College Residence Hall,College Residence Hall,College & University
+43.8246107,-111.7625664,Aspen Village Lounge,43.812941667504994,-111.77628711874,Event Space,Event Space,Professional & Other Places
+43.8246107,-111.759241466667,Slide Hill,43.8109640961685,-111.76443099975599,Park,Park,Outdoors & Recreation
+43.8246107,-111.759241466667,The Bottskys,43.812909999999995,-111.772805,Sports Bar,Bar,Nightlife Spot
+43.8222125,-111.805790533333,Stone's Chrysler Dodge Jeep Ram,43.81333842,-111.80028053,Auto Dealership,Auto Dealership,Shop & Service
+43.8222125,-111.805790533333,Woody Smith Ford,43.8149918833333,-111.79950891666701,Auto Dealership,Auto Dealership,Shop & Service
+43.8222125,-111.805790533333,Stonebrook Apartments,43.8132534,-111.80653319999999,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.805790533333,Radiance Tanning & Salon,43.81233639618301,-111.80328272340999,Tanning Salon,Tanning Salon,Shop & Service
+43.8222125,-111.805790533333,Woodysmith Automotive Group,43.81491894726211,-111.79942240284099,Auto Dealership,Auto Dealership,Shop & Service
+43.8222125,-111.805790533333,Stone's Toyota,43.813648,-111.800273,Auto Dealership,Auto Dealership,Shop & Service
+43.8222125,-111.805790533333,Rexburg College Massage Therapy School,43.812703000000006,-111.803546,Student Center,Student Center,College & University
+43.8222125,-111.805790533333,Pawn Shop,43.8158836364746,-111.79906463622999,Thrift / Vintage Store,Thrift / Vintage Store,Shop & Service
+43.8222125,-111.805790533333,Stones,43.813486488231405,-111.80043181549699,Automotive Shop,Automotive Shop,Shop & Service
+43.8222125,-111.805790533333,G's Dairy,43.8130803139322,-111.804197057077,Ice Cream Shop,Dessert Shop,Food
+43.8222125,-111.805790533333,Draper Oaks Apartments,43.81631,-111.794482,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.8024656,Storage Bay,43.8177337646484,-111.79308319091801,Storage Facility,Storage Facility,Shop & Service
+43.8222125,-111.8024656,Central Storage Office,43.817983,-111.79383500000002,Storage Facility,Storage Facility,Shop & Service
+43.8222125,-111.8024656,Lincoln Park,43.814075,-111.79725900000001,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.8024656,RH Maintainace,43.817147,-111.791377,Building,Building,Professional & Other Places
+43.8222125,-111.8024656,The Roost,43.81624142666389,-111.792919793098,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.799140666667,West Tisbury,43.8152260831406,-111.79683917033,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.799140666667,The Church of Jesus Christ of Latter-day Saints,43.818265,-111.791901,Church,Spiritual Center,Professional & Other Places
+43.8222125,-111.799140666667,Taco Bus,43.8176914989972,-111.790977621322,Mexican Restaurant,Mexican Restaurant,Food
+43.8222125,-111.799140666667,Rexburg 3rd Ward,43.8173071995479,-111.791186866938,Church,Spiritual Center,Professional & Other Places
+43.8222125,-111.799140666667,Rockwell Homes,43.816936945205896,-111.79125022737,Building,Building,Professional & Other Places
+43.8222125,-111.799140666667,Avonlea Apartments,43.81947,-111.78923,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.799140666667,Taqueria El Rancho,43.817349,-111.794678,Mexican Restaurant,Mexican Restaurant,Food
+43.8222125,-111.795815733333,Five Guys,43.821702200000004,-111.78913529999998,Burger Joint,Burger Joint,Food
+43.8222125,-111.795815733333,Rexburg Housing,43.8204890308279,-111.79003483059601,Building,Building,Professional & Other Places
+43.8222125,-111.79249080000001,Enterprise CarShare,43.820285,-111.78629,Rental Car Location,Rental Car Location,Travel & Transport
+43.8222125,-111.79249080000001,Verizon Authorized Retailer – GoWireless,43.81809969948009,-111.788918560154,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.8222125,-111.79249080000001,AlphaGraphics,43.818104,-111.78879,Arts & Crafts Store,Arts & Crafts Store,Shop & Service
+43.8222125,-111.79249080000001,BYU-Idaho Viking Stadium,43.8209197688976,-111.786017417908,College Stadium,College Stadium,College & University
+43.8222125,-111.79249080000001,Verizon,43.8181975,-111.789069383333,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.8222125,-111.79249080000001,Outdoor Resource Center (ORC),43.8206998735757,-111.78624487289,Bike Shop,Bike Shop,Shop & Service
+43.8222125,-111.79249080000001,BYU I 48th ward,43.820871000000004,-111.786064,Church,Spiritual Center,Professional & Other Places
+43.8222125,-111.79249080000001,BYUI  Bookstore,43.8186277747266,-111.78865025173401,College Bookstore,College Bookstore,College & University
+43.8222125,-111.79249080000001,New Fongs,43.818426,-111.790074,Chinese Restaurant,Asian Restaurant,Food
+43.8222125,-111.79249080000001,I'm On A Bus,43.8189577590638,-111.787666048393,Bus Line,Bus Station,Travel & Transport
+43.8222125,-111.79249080000001,Alpha Graphics,43.81810947,-111.788853,Paper / Office Supplies Store,Paper / Office Supplies Store,Shop & Service
+43.8222125,-111.79249080000001,Brooklyn Apartments,43.81861515,-111.78872251,College Residence Hall,College Residence Hall,College & University
+43.8222125,-111.79249080000001,Sunset Hall,43.819872419628105,-111.788155817782,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.79249080000001,Royal Crest Apartments,43.81890775,-111.78695218,College Residence Hall,College Residence Hall,College & University
+43.8222125,-111.79249080000001,The Willows,43.818418384022706,-111.788576269827,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.789165866667,royal crest mail boxes,43.819187164306605,-111.787155151367,Post Office,Post Office,Professional & Other Places
+43.8222125,-111.789165866667,The Waffle Iron,43.8203776,-111.78318592,Southern / Soul Food Restaurant,Southern / Soul Food Restaurant,Food
+43.8222125,-111.789165866667,RC laundry room,43.8191986083984,-111.787139892578,Laundry Service,Laundry Service,Shop & Service
+43.8222125,-111.789165866667,Bunkhouse Apartments-BYU-I,43.81799968,-111.7883949,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.789165866667,smith 383,43.819161148172306,-111.787242822311,College Classroom,College Classroom,College & University
+43.8222125,-111.789165866667,Church,43.821576334982204,-111.784483770276,Church,Spiritual Center,Professional & Other Places
+43.8222125,-111.789165866667,Upper Play Fields,43.8213017383321,-111.78535018650601,Soccer Field,Athletics & Sports,Outdoors & Recreation
+43.8222125,-111.789165866667,presentation practice center,43.8215427800051,-111.784512258754,Office,Office,Professional & Other Places
+43.8222125,-111.789165866667,Hart 170,43.819801,-111.785614,College Classroom,College Classroom,College & University
+43.8222125,-111.789165866667,Davenport Apts,43.8182025800331,-111.788085508169,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.789165866667,Romney Photo lab,43.820283,-111.783695,College Lab,College Lab,College & University
+43.8222125,-111.78584093333299,NorthPoint Apartments,43.823130733014494,-111.786588322276,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.78584093333299,Eliza R. Snow Performing Arts Center,43.8210281092852,-111.783653255088,College Arts Building,College Academic Building,College & University
+43.8222125,-111.78584093333299,Locks and Keys,43.8208312988281,-111.783271789551,Trade School,Trade School,College & University
+43.8222125,-111.78584093333299,BYU-I Communications Dept.,43.8210154543878,-111.782713912812,College Administrative Building,College Administrative Building,College & University
+43.8222125,-111.78584093333299,skybridge Between Hart And I-center,43.8191610447458,-111.78521075245001,University,University,College & University
+43.8222125,-111.78584093333299,Café Snow​,43.821636,-111.78525,Bistro,Bistro,Food
+43.8222125,-111.78584093333299,Costume Shop,43.8208219131458,-111.784191483178,College Theater,College Theater,College & University
+43.8222125,-111.78584093333299,Black Box Theater,43.8213913594359,-111.783891764853,College Theater,College Theater,College & University
+43.8222125,-111.78584093333299,John W. Hart Physical Education Bldg.,43.819619698094904,-111.78574902722299,College Gym,College Gym,College & University
+43.8222125,-111.78584093333299,BYU -I 45th ward,43.819019,-111.78508000000001,Church,Spiritual Center,Professional & Other Places
+43.8222125,-111.78584093333299,Views Of Snow 10,43.822258000000005,-111.78466,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.78584093333299,Snow Drama Theater,43.821247,-111.78398899999999,Theater,Performing Arts Venue,Arts & Entertainment
+43.8222125,-111.78584093333299,Smith Conference Room 272,43.821868896484396,-111.783729553223,College Classroom,College Classroom,College & University
+43.8222125,-111.78584093333299,Girl's Locker Room,43.819536,-111.784741,Athletics & Sports,Athletics & Sports,Outdoors & Recreation
+43.8222125,-111.78584093333299,Bus Stop,43.8193016052246,-111.786674499512,Bus Station,Bus Station,Travel & Transport
+43.8222125,-111.78584093333299,Hart Auxiliary Gym,43.819682310569,-111.78592491861299,Yoga Studio,Athletics & Sports,Outdoors & Recreation
+43.8222125,-111.78584093333299,BYU-Idaho Planetarium,43.8201387034155,-111.78287386894199,Planetarium,Museum,Arts & Entertainment
+43.8222125,-111.78584093333299,251 Spori,43.82062610261,-111.78208549909901,College Communications Building,College Academic Building,College & University
+43.8222125,-111.78584093333299,Faculty Technology Center @ BYU-Idado,43.819471,-111.78338500000001,College Technology Building,College Academic Building,College & University
+43.8222125,-111.78584093333299,TD/Audio Room For Scroll Digital,43.82072,-111.782367,Tech Startup,Office,Professional & Other Places
+43.8222125,-111.78584093333299,Hart Auditorium,43.81966646323529,-111.785684373939,Rock Club,Music Venue,Arts & Entertainment
+43.8222125,-111.78584093333299,George S. Romney Bldg.,43.8201297026056,-111.78299614848301,College Science Building,College Academic Building,College & University
+43.8222125,-111.78584093333299,The Scroll Office,43.820733817775,-111.782394221612,Office,Office,Professional & Other Places
+43.8222125,-111.78584093333299,Icomm Office,43.8207886427272,-111.78253807121,Office,Office,Professional & Other Places
+43.8222125,-111.78584093333299,Scroll Digital Studio,43.820813,-111.782323,College Communications Building,College Academic Building,College & University
+43.8222125,-111.78584093333299,Departmet Of Art Office,43.820851,-111.78256999999999,College Arts Building,College Academic Building,College & University
+43.8222125,-111.78584093333299,AV Productions,43.8190154684421,-111.785438060761,Office,Office,Professional & Other Places
+43.8222125,-111.78584093333299,Spori Quad,43.8207641331542,-111.782300516182,College Quad,College Quad,College & University
+43.8222125,-111.78584093333299,Scroll Digital Newsroom,43.8207638990851,-111.78218969745701,Building,Building,Professional & Other Places
+43.8222125,-111.78584093333299,Spori Lab 107,43.8207006417995,-111.782511114045,College Classroom,College Classroom,College & University
+43.8222125,-111.78584093333299,Print Lab,43.820984,-111.78223799999999,College Classroom,College Classroom,College & University
+43.8222125,-111.78584093333299,Spori Conference Room,43.820729,-111.782425,College Classroom,College Classroom,College & University
+43.8222125,-111.78584093333299,BYUI Family History Center,43.820499017745504,-111.78219705871,General College & University,General College & University,College & University
+43.8222125,-111.78584093333299,Production Office,43.820796,-111.78253400000001,College Library,College Library,College & University
+43.8222125,-111.78251599999999,Oscar A. Kirkham Bldg,43.8212097768449,-111.781608210463,Jazz Club,Music Venue,Arts & Entertainment
+43.8222125,-111.78251599999999,Jacob Spori Art Gallery,43.820764949990604,-111.782455444336,Art Gallery,Art Gallery,Arts & Entertainment
+43.8222125,-111.78251599999999,Spori Building,43.8207834202714,-111.78238360092101,College Communications Building,College Academic Building,College & University
+43.8222125,-111.78251599999999,My Office,43.8207893945444,-111.782319028789,College Communications Building,College Academic Building,College & University
+43.8222125,-111.78251599999999,John L. Clarke Building,43.8201655609463,-111.781719039569,College Academic Building,College Academic Building,College & University
+43.8222125,-111.78251599999999,David O. McKay Library,43.81923852360539,-111.78311666742901,College Library,College Library,College & University
+43.8222125,-111.78251599999999,33rd ward,43.819313,-111.78351799999999,Church,Spiritual Center,Professional & Other Places
+43.8222125,-111.78251599999999,The Math Learning Dungeon At BYUI,43.81947794925209,-111.782362530297,College Classroom,College Classroom,College & University
+43.8222125,-111.78251599999999,Fishtank,43.819359999999996,-111.783175,College Library,College Library,College & University
+43.8222125,-111.78251599999999,smith 129,43.819349367134,-111.78260014360201,College Classroom,College Classroom,College & University
+43.8222125,-111.78251599999999,Johnny's Diner,43.820384979248104,-111.78186798095699,Burger Joint,Burger Joint,Food
+43.8222125,-111.78251599999999,Spori Lab 14,43.820752,-111.78263600000001,College Classroom,College Classroom,College & University
+43.8222125,-111.78251599999999,Spori 265,43.82087,-111.782132,College Classroom,College Classroom,College & University
+43.8222125,-111.78251599999999,PRSSA,43.820722992879496,-111.782319896977,College Classroom,College Classroom,College & University
+43.8222125,-111.78251599999999,Shark Bites,43.8195188584599,-111.78191846731801,Donut Shop,Donut Shop,Food
+43.8222125,-111.78251599999999,cocoa cabin,43.819881439209006,-111.782295227051,Café,Café,Food
+43.8222125,-111.78251599999999,Clark 229,43.820083199303596,-111.781913021793,College Classroom,College Classroom,College & University
+43.8222125,-111.78251599999999,Central Quad,43.8192012565261,-111.782423257828,Music Venue,Music Venue,Arts & Entertainment
+43.8222125,-111.78251599999999,Café McKay,43.8190773978677,-111.78299188613899,College Cafeteria,College Cafeteria,College & University
+43.8222125,-111.77919106666701,Brigham Young University-Idaho,43.818211727303705,-111.782564837144,University,University,College & University
+43.8222125,-111.77919106666701,Spori Lab 014,43.8207820917538,-111.782506646456,College Classroom,College Classroom,College & University
+43.8222125,-111.77919106666701,ADC Business and Communication,43.81944,-111.78153400000001,College Academic Building,College Academic Building,College & University
+43.8222125,-111.77919106666701,BYU-Idaho Reading Center,43.81950749718631,-111.78233083885901,College Lab,College Lab,College & University
+43.8222125,-111.775866133333,Smith 4th Floor,43.819241999999996,-111.78154199999999,College Communications Building,College Academic Building,College & University
+43.8222125,-111.775866133333,IBC Classroom,43.819244,-111.781377,College Classroom,College Classroom,College & University
+43.8222125,-111.775866133333,Joseph Fielding Smith Building,43.81925065135991,-111.781726914192,College Academic Building,College Academic Building,College & University
+43.8222125,-111.775866133333,Smith Computer Classroom 263,43.819115000000004,-111.78181299999999,College Classroom,College Classroom,College & University
+43.8222125,-111.775866133333,Smith Building,43.819097982579,-111.781371078549,College Academic Building,College Academic Building,College & University
+43.8222125,-111.775866133333,The Campus Dorm's Parking Lot,43.818866,-111.78093700000001,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.7725412,Tennis Courts,43.81701677539579,-111.77839179781999,Tennis Court,Athletics & Sports,Outdoors & Recreation
+43.8222125,-111.7725412,BYU-Idaho Radio,43.8173436648495,-111.779610568885,College Communications Building,College Academic Building,College & University
+43.8222125,-111.7725412,University Communications Building,43.8175178009089,-111.77974605610001,College Communications Building,College Academic Building,College & University
+43.8222125,-111.7725412,Radio & Grapgic Services Building,43.81726593563089,-111.779397726059,College Administrative Building,College Administrative Building,College & University
+43.8222125,-111.769216266667,Enterprise CarShare,43.816274,-111.77892,Rental Car Location,Rental Car Location,Travel & Transport
+43.8222125,-111.769216266667,Student Counseling Center,43.8167939668441,-111.779489101037,Medical Center,Medical Center,Professional & Other Places
+43.8222125,-111.769216266667,Student Health Center,43.816790755783394,-111.779434986257,Doctor's Office,Medical Center,Professional & Other Places
+43.8222125,-111.769216266667,chapman hall,43.818421641079,-111.78028394281799,College Residence Hall,College Residence Hall,College & University
+43.8222125,-111.769216266667,Kensington Manor,43.8188036182794,-111.777703396581,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.769216266667,BYU Idaho Testing Center,43.818685008551505,-111.78096062806601,College Administrative Building,College Administrative Building,College & University
+43.8222125,-111.7625664,The Bar - Leftovers - Made Fresh the Day Before,43.811913,-111.773652,Café,Café,Food
+43.8222125,-111.7625664,Jordan Ridge Kings Palace,43.813118474703906,-111.775766611369,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8222125,-111.759241466667,BYUI Outdoor Activities,43.80836,-111.75848,College Administrative Building,College Administrative Building,College & University
+43.8222125,-111.759241466667,Jordan Ridge,43.812256,-111.77583899999999,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.805790533333,The Church of Jesus Christ of Latter-day Saints,43.8134146269404,-111.794981080463,Church,Spiritual Center,Professional & Other Places
+43.8198143,-111.805790533333,The Tool Pound,43.814999,-111.793474,Dog Run,Dog Run,Outdoors & Recreation
+43.8198143,-111.805790533333,Southgate Lounge,43.81341006026071,-111.79507835394199,Event Space,Event Space,Professional & Other Places
+43.8198143,-111.805790533333,courthouse design,43.813996,-111.794397,Design Studio,Design Studio,Shop & Service
+43.8198143,-111.805790533333,World Gym Fitness Center,43.8119132092842,-111.805040023915,Gym / Fitness Center,Athletics & Sports,Outdoors & Recreation
+43.8198143,-111.8024656,Tuscany,43.81658,-111.790744,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.8024656,Lexington Apartments,43.815068,-111.794926,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.8024656,Karie Anne's Delectable Desserts,43.8121778867624,-111.803252079673,Dessert Shop,Dessert Shop,Food
+43.8198143,-111.799140666667,Subway,43.817948675990706,-111.78889378429899,Sandwich Place,Sandwich Place,Food
+43.8198143,-111.799140666667,Madison county Transfer station,43.815706,-111.79156499999999,Other Great Outdoors,Other Great Outdoors,Outdoors & Recreation
+43.8198143,-111.799140666667,Alpine Chalet Gym,43.816275,-111.7907,Gym,Athletics & Sports,Outdoors & Recreation
+43.8198143,-111.795815733333,Colonial House,43.816997499991515,-111.788190088252,College Residence Hall,College Residence Hall,College & University
+43.8198143,-111.795815733333,Da Pineapple Grill,43.818148,-111.78893400000001,Sushi Restaurant,Asian Restaurant,Food
+43.8198143,-111.795815733333,Casa De Ochoa,43.818104,-111.78879,Burrito Place,Mexican Restaurant,Food
+43.8198143,-111.795815733333,Rockland,43.817239,-111.790784,College Residence Hall,College Residence Hall,College & University
+43.8198143,-111.79249080000001,Enterprise CarShare,43.817808,-111.78636000000002,Rental Car Location,Rental Car Location,Travel & Transport
+43.8198143,-111.79249080000001,Alpine Apartments,43.816059,-111.790243,College Residence Hall,College Residence Hall,College & University
+43.8198143,-111.79249080000001,Heritage Apartments,43.816517243525,-111.787359545555,College Residence Hall,College Residence Hall,College & University
+43.8198143,-111.79249080000001,Facebookism,43.817935999999996,-111.78668700000001,Electronics Store,Electronics Store,Shop & Service
+43.8198143,-111.79249080000001,Ice Cloud,43.817868,-111.78768600000001,Ice Cream Shop,Dessert Shop,Food
+43.8198143,-111.79249080000001,Andrew's Piano Paradise,43.816387,-111.78806100000001,Piano Bar,Music Venue,Arts & Entertainment
+43.8198143,-111.79249080000001,Empty Cupboards,43.815796999999996,-111.78888,Mac & Cheese Joint,Mac & Cheese Joint,Food
+43.8198143,-111.79249080000001,Craigos Sourdough Pizza,43.817745,-111.787543,Pizza Place,Pizza Place,Food
+43.8198143,-111.789165866667,BYU-Idaho Center,43.8184823970673,-111.784698604449,Performing Arts Venue,Performing Arts Venue,Arts & Entertainment
+43.8198143,-111.789165866667,Nielson's,43.8177719116211,-111.785209655762,Ice Cream Shop,Dessert Shop,Food
+43.8198143,-111.789165866667,Hart pool,43.81953430175779,-111.784385681152,Pool,Pool,Outdoors & Recreation
+43.8198143,-111.789165866667,Thor Hall,43.81983989865579,-111.78537368774401,Historic Site,Historic Site,Arts & Entertainment
+43.8198143,-111.789165866667,barrus hall,43.8190202208905,-111.784050410745,College Theater,College Theater,College & University
+43.8198143,-111.789165866667,Somerset Apartments Lounge,43.816179,-111.787021,General Entertainment,General Entertainment,Arts & Entertainment
+43.8198143,-111.789165866667,Hart Booth,43.819652000000005,-111.78564399999999,College Auditorium,College Auditorium,College & University
+43.8198143,-111.789165866667,Mountain Pines,43.817438,-111.787197,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.78584093333299,BYUI I-Center Track,43.8194949282533,-111.784024581245,Athletics & Sports,Athletics & Sports,Outdoors & Recreation
+43.8198143,-111.78584093333299,Freshëns,43.8184678954283,-111.783091873379,Bagel Shop,Bagel Shop,Food
+43.8198143,-111.78584093333299,Moxie Office Rexburg,43.8180060016559,-111.787453399599,Club House,Club House,Professional & Other Places
+43.8198143,-111.78584093333299,MC Event Management Office,43.818218121350405,-111.782927513123,Conference Room,Office,Professional & Other Places
+43.8198143,-111.78584093333299,The Writing Center,43.81918734063721,-111.783236610702,College Library,College Library,College & University
+43.8198143,-111.78584093333299,Express Print and Copy,43.8186890345226,-111.782755008199,Paper / Office Supplies Store,Paper / Office Supplies Store,Shop & Service
+43.8198143,-111.78584093333299,BYU-I Dance Department,43.818489020990896,-111.783051949512,College Classroom,College Classroom,College & University
+43.8198143,-111.78584093333299,Chick-fil-A,43.818526,-111.782375,Fast Food Restaurant,Fast Food Restaurant,Food
+43.8198143,-111.78584093333299,Testing Center,43.8185509957028,-111.783319115639,General College & University,General College & University,College & University
+43.8198143,-111.78584093333299,BYU-I Rigby Hall,43.8171334599998,-111.784397357035,General College & University,General College & University,College & University
+43.8198143,-111.78584093333299,BYUI Skybridge (MC),43.818648870056,-111.782840821898,College Quad,College Quad,College & University
+43.8198143,-111.78584093333299,MC Market,43.8185753146586,-111.78290125228901,College Cafeteria,College Cafeteria,College & University
+43.8198143,-111.78584093333299,Student Technology Center,43.81943,-111.78345900000001,College Lab,College Lab,College & University
+43.8198143,-111.78584093333299,The Commons (In David O. McKay Library),43.8194132258915,-111.783263615255,College Library,College Library,College & University
+43.8198143,-111.78584093333299,Harris Hall Apartments,43.8181913998746,-111.787111499307,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.78584093333299,MC Bowling Alley,43.818575,-111.78275900000001,Athletics & Sports,Athletics & Sports,Outdoors & Recreation
+43.8198143,-111.78584093333299,Beehive BYU-Idaho ATM,43.818624,-111.78267199999999,Bank,Bank,Shop & Service
+43.8198143,-111.78584093333299,Computer Help Desk,43.819264000000004,-111.78324599999999,College Lab,College Lab,College & University
+43.8198143,-111.78584093333299,BYU-I Student Activities,43.8185486216284,-111.783839165075,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.78584093333299,Smith Quad,43.8191548095593,-111.782155036926,College Quad,College Quad,College & University
+43.8198143,-111.78584093333299,course improvement office,43.81723,-111.785448,Coworking Space,Office,Professional & Other Places
+43.8198143,-111.78251599999999,Hyrum Manwaring Student Center,43.8186305112177,-111.782724224239,Student Center,Student Center,College & University
+43.8198143,-111.78251599999999,BYU Bookstore,43.817981838761995,-111.782228895643,College Bookstore,College Bookstore,College & University
+43.8198143,-111.78251599999999,University Store,43.8186629626658,-111.78276103499,College Bookstore,College Bookstore,College & University
+43.8198143,-111.78251599999999,Enterprise CarShare,43.817889,-111.78084,Rental Car Location,Rental Car Location,Travel & Transport
+43.8198143,-111.78251599999999,The Crossroads,43.818640834488896,-111.78270253308399,College Cafeteria,College Cafeteria,College & University
+43.8198143,-111.78251599999999,MC Little Theater - Hyrum Manwaring Building,43.818168220491906,-111.782145771281,Jazz Club,Music Venue,Arts & Entertainment
+43.8198143,-111.78251599999999,Tito's Tacos,43.8180176680419,-111.782093491876,Taco Place,Mexican Restaurant,Food
+43.8198143,-111.78251599999999,Taylor Quad,43.8176800995781,-111.78248226642599,College Quad,College Quad,College & University
+43.8198143,-111.78251599999999,Online Advising,43.818028000000005,-111.780469,Office,Office,Professional & Other Places
+43.8198143,-111.78251599999999,Rexburg YSA 38th Ward Church,43.818279,-111.78261100000002,Church,Spiritual Center,Professional & Other Places
+43.8198143,-111.78251599999999,BYU-Idaho Family History Computer Lab,43.8194351196289,-111.782508850098,College Classroom,College Classroom,College & University
+43.8198143,-111.78251599999999,MC 142,43.818831,-111.782296,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.78251599999999,MC Icomm Office,43.818065000000004,-111.78220800000001,Tech Startup,Office,Professional & Other Places
+43.8198143,-111.78251599999999,Soapbox Agency,43.818056812217904,-111.782120186315,Office,Office,Professional & Other Places
+43.8198143,-111.78251599999999,Grandpa's Southern BBQ,43.81819152832029,-111.78179931640601,BBQ Joint,BBQ Joint,Food
+43.8198143,-111.78251599999999,BYUI Academic Discovery Center,43.8183560028366,-111.78335307888901,College Academic Building,College Academic Building,College & University
+43.8198143,-111.78251599999999,MC Little Theatre 372A,43.818075,-111.782481,College Auditorium,College Auditorium,College & University
+43.8198143,-111.77919106666701,Spencer W. Kimball Bldg.,43.817302537331,-111.781563748426,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.77919106666701,BYU-I Academic Office,43.817398,-111.781318,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.77919106666701,MC Bowling Alley,43.818624744405,-111.782734014484,Bowling Alley,Bowling Alley,Arts & Entertainment
+43.8198143,-111.77919106666701,Café Kimball,43.8169020882977,-111.781479120255,College Cafeteria,College Cafeteria,College & University
+43.8198143,-111.77919106666701,Executive Office,43.817456,-111.781586,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.77919106666701,Financial Aid Office,43.8173027038574,-111.781524658203,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.77919106666701,Housing & Student Living Office,43.817158,-111.781503,College Administrative Building,College Administrative Building,College & University
+43.8198143,-111.7725412,YSA 48th Ward,43.815875,-111.77971799999999,Church,Spiritual Center,Professional & Other Places
+43.8198143,-111.7725412,MC Special Events Room,43.8181484497394,-111.78137183189399,Conference Room,Office,Professional & Other Places
+43.8198143,-111.769216266667,Avilla,43.814467214242605,-111.775861791425,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.765891333333,Legacy Ridge,43.811968896218005,-111.777210217745,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8198143,-111.765891333333,Gordon B. Hinckley Bldg.,43.8159195862753,-111.77972191534701,College Academic Building,College Academic Building,College & University
+43.8198143,-111.759241466667,Drooling,43.811875,-111.77679199999999,Concert Hall,Concert Hall,Arts & Entertainment
+43.8174161,-111.805790533333,Taylor Cadillac of Rexburg,43.8088872079328,-111.803695857525,Auto Dealership,Auto Dealership,Shop & Service
+43.8174161,-111.805790533333,Taylor Chevrolet,43.808742737290494,-111.804519804398,Auto Dealership,Auto Dealership,Shop & Service
+43.8174161,-111.805790533333,Sage Day Spa,43.806425707893496,-111.80458100628,Spa,Spa,Shop & Service
+43.8174161,-111.805790533333,Taylor Chevrolet Buick Cadillac,43.8088270154248,-111.80367140103,Auto Dealership,Auto Dealership,Shop & Service
+43.8174161,-111.805790533333,Anytime Fitness,43.80621,-111.80521999999999,Gym / Fitness Center,Athletics & Sports,Outdoors & Recreation
+43.8174161,-111.805790533333,Madison County WIC,43.811888,-111.796543,Doctor's Office,Medical Center,Professional & Other Places
+43.8174161,-111.805790533333,The Throne Room,43.8118523198485,-111.796455581631,Rest Area,Rest Area,Travel & Transport
+43.8174161,-111.805790533333,SRV-IT Computer Repair Depot,43.80884268856871,-111.803269386292,Tech Startup,Office,Professional & Other Places
+43.8174161,-111.805790533333,Wagon Wheel 29,43.811820000000004,-111.796416,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.805790533333,Wagon Wheel Apartments,43.811839,-111.796499,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.805790533333,Hyde Park,43.810867487916795,-111.795754398626,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.805790533333,Teton-Vu Drive in,43.810165000000005,-111.80328600000001,Movie Theater,Movie Theater,Arts & Entertainment
+43.8174161,-111.8024656,0500 Mechanics,43.81749,-111.79869,Automotive Shop,Automotive Shop,Shop & Service
+43.8174161,-111.8024656,The Towers,43.813169,-111.792727,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.8024656,Brighton Towhomes,43.8138565818834,-111.79159060945899,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.799140666667,Derf Dungeon,43.814104,-111.79041399999998,Spiritual Center,Spiritual Center,Professional & Other Places
+43.8174161,-111.799140666667,Shel 9,43.814204,-111.79034399999999,Karaoke Bar,Bar,Nightlife Spot
+43.8174161,-111.799140666667,Shelbourne Apartments,43.8145406091759,-111.79039534290101,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.799140666667,Shel9,43.814261,-111.79033799999999,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.795815733333,The Gates,43.8123089024944,-111.79470467172001,College Residence Hall,College Residence Hall,College & University
+43.8174161,-111.79249080000001,Self Car Wash,43.815176173790505,-111.787298545847,Car Wash,Car Wash,Shop & Service
+43.8174161,-111.79249080000001,BYU-Idaho Recycling Center,43.81503636820501,-111.78749799728399,Recycling Facility,Recycling Facility,Shop & Service
+43.8174161,-111.79249080000001,The Kitchen,43.814646999999994,-111.78822199999999,Restaurant,Restaurant,Food
+43.8174161,-111.79249080000001,Kappa Phi Oh 7,43.81474495744679,-111.788212135266,Sorority House,Sorority House,College & University
+43.8174161,-111.79249080000001,Nauvoo House,43.8145317755527,-111.789240946824,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.79249080000001,Mountain Lofts,43.815038382126396,-111.792010793467,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.79249080000001,Northgate Apartments,43.814342612714704,-111.794384325245,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.79249080000001,Shake Out,43.8179631442131,-111.78692557882799,Burger Joint,Burger Joint,Food
+43.8174161,-111.79249080000001,Southgate Apartments,43.813376322528,-111.79506043157,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.79249080000001,Bountiful Place,43.8147538254123,-111.793942308079,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8174161,-111.79249080000001,Nauvoo Club House,43.8151773816313,-111.788922316423,Dive Spot,Dive Spot,Outdoors & Recreation
+43.8174161,-111.789165866667,Walmart,43.8371733811435,-111.776057347888,Big Box Store,Big Box Store,Shop & Service
+43.8174161,-111.789165866667,Biddulph Hall,43.817226145182,-111.78501527381,College Residence Hall,College Residence Hall,College & University
+43.8174161,-111.789165866667,crepe corner,43.8163948059082,-111.78475952148399,Breakfast Spot,Breakfast Spot,Food
+43.8174161,-111.789165866667,Mark Austin Auto Shop,43.815796,-111.78427099999999,Automotive Shop,Automotive Shop,Shop & Service
+43.8174161,-111.789165866667,Nauvoo Gym,43.8143120802725,-111.788209185263,Gym,Athletics & Sports,Outdoors & Recreation
+43.8174161,-111.789165866667,Student Support Office,43.817142,-111.784494,Student Center,Student Center,College & University
+43.8174161,-111.789165866667,Fleet Services & Vehicle Rentals,43.816261291503906,-111.786514282227,Automotive Shop,Automotive Shop,Shop & Service
+43.8174161,-111.789165866667,Cadaver Lab,43.815698129152004,-111.783101710274,College Science Building,College Academic Building,College & University
+43.8174161,-111.789165866667,Ricks 161,43.816497802734396,-111.78472900390601,College Classroom,College Classroom,College & University
+43.8174161,-111.78584093333299,Ricks Gardens,43.8159460688591,-111.78202235820801,Garden,Garden,Outdoors & Recreation
+43.8174161,-111.78584093333299,Mark Austin Technical & Engineering Bldg,43.81611171199221,-111.784575227227,College Academic Building,College Academic Building,College & University
+43.8174161,-111.78584093333299,Main Street Diamonds,43.826423,-111.782332,Jewelry Store,Jewelry Store,Shop & Service
+43.8174161,-111.78584093333299,Science and Technology Center,43.814681,-111.784498,College Science Building,College Academic Building,College & University
+43.8174161,-111.78584093333299,John Taylor Bldg.,43.816842044145496,-111.78274183091101,College Academic Building,College Academic Building,College & University
+43.8174161,-111.78584093333299,Rigby 242,43.816990999999994,-111.78433899999999,College Administrative Building,College Administrative Building,College & University
+43.8174161,-111.78584093333299,University Operations Bldg.,43.8160582636088,-111.785577535629,General College & University,General College & University,College & University
+43.8174161,-111.78251599999999,Ezra Taft Benson Building,43.815740858575296,-111.78309917450001,College Science Building,College Academic Building,College & University
+43.8174161,-111.78251599999999,Garden View Café,43.81514862272169,-111.780813932419,College Cafeteria,College Cafeteria,College & University
+43.8174161,-111.78251599999999,Thomas E. Ricks Bldg.,43.8148706997485,-111.780939397453,College Math Building,College Academic Building,College & University
+43.8174161,-111.78251599999999,ricks 178,43.815201461081706,-111.780940399706,College Classroom,College Classroom,College & University
+43.8174161,-111.78251599999999,Byui Free Parking,43.8127774501428,-111.78216097084,University,University,College & University
+43.8174161,-111.78251599999999,Neuroscience Lab,43.8156916354791,-111.78304247252599,College Lab,College Lab,College & University
+43.8174161,-111.78251599999999,Stores and Receiving,43.8146245479584,-111.783088445663,Post Office,Post Office,Professional & Other Places
+43.8174161,-111.77919106666701,Accounting/econ lab,43.814909,-111.782578825951,College Lab,College Lab,College & University
+43.8174161,-111.7725412,BYU-I Apple Orchard,43.8140918735691,-111.781768798828,Farmers Market,Food & Drink Shop,Shop & Service
+43.8174161,-111.7725412,Church of Jesus Christ of Latter-Day Saints Rexburg Temple,43.810899,-111.779059,Church,Spiritual Center,Professional & Other Places
+43.8174161,-111.769216266667,Rexburg Idaho Temple,43.810691176334295,-111.77885417318501,Temple,Spiritual Center,Professional & Other Places
+43.8150179,-111.805790533333,Expidition Firearms,43.806968560688404,-111.805822361992,Other Great Outdoors,Other Great Outdoors,Outdoors & Recreation
+43.8150179,-111.805790533333,Mesa Falls Apartments,43.807365000000004,-111.800027,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8150179,-111.805790533333,North Fork Dental Care,43.807434906371604,-111.804985471828,Dentist's Office,Medical Center,Professional & Other Places
+43.8150179,-111.795815733333,Enterprise CarShare,43.812629,-111.78935,Rental Car Location,Rental Car Location,Travel & Transport
+43.8150179,-111.795815733333,The Church of Jesus Christ of Latter-day Saints,43.810748,-111.791441,Church,Spiritual Center,Professional & Other Places
+43.8150179,-111.795815733333,Rexburg Care And Rehab Center,43.812724072789095,-111.789789707887,Medical Center,Medical Center,Professional & Other Places
+43.8150179,-111.795815733333,The Ivy,43.8128727658041,-111.78819846228399,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8150179,-111.789165866667,BYUI Sports Fields,43.813001456600304,-111.784897033687,Field,Field,Outdoors & Recreation
+43.8150179,-111.789165866667,Lulu Bella Botique,43.812037727352,-111.788060908285,Boutique,Clothing Store,Shop & Service
+43.8150179,-111.789165866667,BYU-Idaho Ropes Course,43.81350075512409,-111.78634928858999,Other Great Outdoors,Other Great Outdoors,Outdoors & Recreation
+43.8150179,-111.789165866667,Center Square Apartments,43.81212513302749,-111.78751047961799,Residential Building (Apartment / Condo),Residential Building (Apartment / Condo),Residence
+43.8150179,-111.78584093333299,U.S. Bank ATM,43.81412125,-111.78308870000001,ATM,ATM,Shop & Service
+43.8150179,-111.78584093333299,Sprint Store,43.814086,-111.783136,Mobile Phone Shop,Mobile Phone Shop,Shop & Service
+43.8150179,-111.78584093333299,University Press,43.81378,-111.783111,Paper / Office Supplies Store,Paper / Office Supplies Store,Shop & Service
+43.8150179,-111.78584093333299,Auxiliary Services Building,43.81412792161261,-111.783225849619,College Administrative Building,College Administrative Building,College & University
+43.8150179,-111.78251599999999,BYU-Idaho Upper Soccer Fields,43.81115778155649,-111.78489022559499,Soccer Field,Athletics & Sports,Outdoors & Recreation
+43.8150179,-111.78251599999999,The Church of Jesus Christ of Latter-day Saints,43.81082524511599,-111.78137440799999,Church,Spiritual Center,Professional & Other Places
+43.8150179,-111.78251599999999,Church,43.810789,-111.78125800000001,Church,Spiritual Center,Professional & Other Places
+43.812619700000006,-111.805790533333,Madison Dentistry,43.806350990108996,-111.80342147010201,Dentist's Office,Medical Center,Professional & Other Places
+43.812619700000006,-111.799140666667,University Village,43.808943641197395,-111.78846828114,College Residence Hall,College Residence Hall,College & University
+43.812619700000006,-111.799140666667,The Church of Jesus Christ of Latter-day Saints,43.8093231631452,-111.78863575533701,Church,Spiritual Center,Professional & Other Places
+43.812619700000006,-111.795815733333,4 Plex Field #3,43.8103209516358,-111.786011641965,Recreation Center,Recreation Center,Outdoors & Recreation
+43.812619700000006,-111.79249080000001,4 Plex field #1,43.8103492043131,-111.784133723198,Soccer Field,Athletics & Sports,Outdoors & Recreation

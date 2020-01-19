@@ -17,7 +17,7 @@ NW = np.array([43.840199, -111.807453])
 NE = np.array([43.840199, -111.757579])
 CORNERS = np.array([SE, SW, NW, NE])
 
-MAP_CENTER = (round(np.mean([lat for lat, long in CORNERS]), 6), 
+MAP_CENTER = (round(np.mean([lat for lat, long in CORNERS]), 6),
               round(np.mean([long for lat, long in CORNERS]), 6))
 
 
@@ -25,7 +25,7 @@ def calc_grid_radius(grid_size, side_length=4_000):
     # Calculate radius in meters to cover grid section diagonals and round to
     # the next highest 10 meters
     return math.ceil((((((side_length / grid_size)**2)*2)**0.5)/2)/10)*10
-    
+
 def build_category_tree(tree, level=0, parent=None, categories=[]):
     # Build a dictionary of Foursquare categories by recursing the hierarchy in
     # the categories API JSON file
@@ -38,13 +38,13 @@ def build_category_tree(tree, level=0, parent=None, categories=[]):
                 'level': level,
                 'parent': parent
             })
-            build_category_tree(category['categories'], level=level+1, 
+            build_category_tree(category['categories'], level=level+1,
                                parent=category['name'], categories=categories)
         return categories
-    
-    
+
+
 def add_category_change(new_category, venue_names: list, d):
-    # Add a "category: list of venues to update" pair to a dictionary, and 
+    # Add a "category: list of venues to update" pair to a dictionary, and
     # return a new dictionary.
     d[new_category] = venue_names
     return d
@@ -62,28 +62,28 @@ def map_category_group(category, max_depth=0):
         current_depth -= 1
         current_group = categories[categories['category'] == current_group
                                   ]['parent'].values[0]
-    
+
     return current_group
 
 
 
 
-def grid_centers(grid_size: int, corners: np.array=CORNERS) -> np.array:
+def calc_grid_centers(grid_size: int, corners: np.array=CORNERS) -> np.array:
     # Generate an array containing the center coordinates for each grid section
     num_segments = grid_size * 2
     vert_segment_len = abs(corners[0][0] - corners[3][0]) / num_segments
     horiz_segment_len = abs(corners[2][1] - corners[3][1]) / num_segments
-    
+
     centers = []
-    
+
     for v in range(1, num_segments, 2):
-        v_coord = v_coord = corners[-1][0] - v * vert_segment_len        
+        v_coord = v_coord = corners[-1][0] - v * vert_segment_len
         for h in range(1, num_segments, 2):
             centers.append((v_coord, corners[1][1] + h * horiz_segment_len))
-    
+
     return np.array(centers)
 
-    
+
 def grid_square_bounds(grid_size: int, corners: np.array=CORNERS) -> np.array:
     # Generate an array containing the rectangle corner bounds for each grid
     # section
@@ -91,33 +91,35 @@ def grid_square_bounds(grid_size: int, corners: np.array=CORNERS) -> np.array:
     horiz_segment_len = abs(corners[2][1] - corners[3][1]) / grid_size
 
     polygons = np.zeros((grid_size, grid_size, 2, 2))
-    
+
     northing_start = corners[2][0]
     easting_start = corners[2][1]
-    
+
     for v in range(grid_size):
         for h in range(grid_size):
             # Define NW & SE corner coodinates
-            polygons[v, h, 0] = [northing_start - vert_segment_len*v, 
+            polygons[v, h, 0] = [northing_start - vert_segment_len*v,
                                  easting_start + horiz_segment_len*h]
-            polygons[v, h, 1] = [northing_start - (vert_segment_len * (v + 1)), 
+            polygons[v, h, 1] = [northing_start - (vert_segment_len * (v + 1)),
                                  easting_start + (horiz_segment_len * (h + 1))]
-    
+
     return polygons
 
 
-def draw_rexburg_map(grid_size, corners=CORNERS, zoom_start=13, 
-                     border=True, grid=True, grid_numbers=False, 
+def draw_rexburg_map(corners=CORNERS, zoom_start=13, border=True,
+                     grid=True, grid_size=1, grid_numbers=False,
                      circles=False, grid_radius=None):
+
+    rexburg_map = folium.Map(location=MAP_CENTER, zoom_start=zoom_start)
 
     if grid_radius is None:
         grid_radius = calc_grid_radius(grid_size)
-        
-    map_center = (round(np.mean([lat for lat, long in corners]), 6), 
-                  round(np.mean([long for lat, long in corners]), 6))
-    
-    
-    rexburg_map = folium.Map(location=map_center, zoom_start=zoom_start)
+
+    if grid_numbers or grid:
+        grid_squares = grid_square_bounds(grid_size)
+
+    if grid_numbers or circles:
+        grid_centers = calc_grid_centers(grid_size)
 
     if border:
         folium.Rectangle(
@@ -125,7 +127,6 @@ def draw_rexburg_map(grid_size, corners=CORNERS, zoom_start=13,
             ).add_to(rexburg_map)
 
     if grid:
-        grid_squares = grid_square_bounds(grid_size)
         for row in grid_squares:
             for square in row:
                 folium.Rectangle(
@@ -134,17 +135,14 @@ def draw_rexburg_map(grid_size, corners=CORNERS, zoom_start=13,
                     weight=0.5,
                     color='gray'
                     ).add_to(rexburg_map)
-    
-    if grid_numbers or circles:
-        grid_segment_centers = grid_centers(grid_size)
-        
+
     if grid_numbers:
         counter = 1
         for row in grid_squares:
             for square in row:
                 folium.map.Marker(
-                    [grid_segment_centers[counter-1][0], 
-                     grid_segment_centers[counter-1][1]],
+                    [grid_centers[counter-1][0],
+                     grid_centers[counter-1][1]],
                     icon=DivIcon(icon_size=(1,1),
                                  icon_anchor=(5,5),
                                  html=f'<div style="text-align:center;font-size:6pt"'
@@ -152,9 +150,9 @@ def draw_rexburg_map(grid_size, corners=CORNERS, zoom_start=13,
                     ).add_to(rexburg_map)
 
                 counter += 1
-                
+
     if circles:
-        for lat, long in grid_segment_centers:
+        for lat, long in grid_centers:
             folium.Circle(
                 [lat, long],
                 radius=grid_radius,
@@ -166,9 +164,12 @@ def draw_rexburg_map(grid_size, corners=CORNERS, zoom_start=13,
     return rexburg_map
 
 
-def venue_grid_section(lat, long, square_bounds):
+def venue_grid_section(lat, long, grid_size, square_bounds=None):
     # Inefficiently determines which grid section a given point is in. Returns
     # None if point is outside the grid.
+    if square_bounds is None:
+        square_bounds = grid_square_bounds(grid_size)
+
     for number, coords in enumerate(square_bounds.reshape(-1, 2, 2)):
         lat_max, long_min, lat_min, long_max = coords.flatten()
         if lat_min <= lat <= lat_max and long_min <= long <= long_max:
@@ -178,20 +179,21 @@ def venue_grid_section(lat, long, square_bounds):
 
 
 def get_nearby_venues(grid_size):
-    # Retrieve venues from the Foursquare API for all sections of a grid within a given radius of a list
-    # of grid sections and their cooresponding coordinates. Return a pd.DataFrame
-    
+    # Retrieve venues from the Foursquare API for all sections of a grid within
+    # a given radius of a list of grid sections and their cooresponding
+    # coordinates. Return a pd.DataFrame
+
     grid_sections = range(1, grid_size**2 + 1)
-    coords = grid_segment_centers(grid_size)
+    coords = calc_grid_centers(grid_size)
     latitudes = coords[:, 0]
     longitudes = coords[:, 1]
     radius = calc_grid_radius(grid_size)
-    
+
     venues_list=[]
     print('Getting grid sections: ', end='')
     for grid_section, lat, lng in zip(grid_sections, latitudes, longitudes):
         print(grid_section, end=' ')
-            
+
         # create the API request URL
         req_params = {
             'client_id': CLIENT_ID,
@@ -202,7 +204,7 @@ def get_nearby_venues(grid_size):
             'limit': LIMIT
         }
         url = 'https://api.foursquare.com/v2/venues/search'
-            
+
         # make the GET request
         results = requests.get(url, req_params).json(
                     )['response']['venues']
@@ -213,19 +215,19 @@ def get_nearby_venues(grid_size):
                 category = v['categories'][0]['name']
             except IndexError:
                 category = 'None'
-                
+
             venues_list.append({
                 'grid_section': grid_section,
                 'grid_section_lat': lat,
                 'grid_section_long': lng,
                 'venue': v['name'],
-                'v_lat': v['location']['lat'], 
-                'v_long': v['location']['lng'], 
+                'v_lat': v['location']['lat'],
+                'v_long': v['location']['lng'],
                 'category': category
             })
 
     nearby_venues = pd.DataFrame(venues_list)
-    
+
     return(nearby_venues)
 
 
