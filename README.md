@@ -29,11 +29,10 @@ The coordinates of the four corners of this square are:
 
 
 ### Retrieve Foursquare venues
-I used the [Foursquare API](https://developer.foursquare.com/places) to retrieve information about places in Rexburg. The `explore` endpoint will return venues in all categories centered on a set of coordinates within a radius passed to the API.
+<img src="assets/rex_grid_blank.png" height="300" align="left">I used the [Foursquare API](https://developer.foursquare.com/places) to retrieve information about places in Rexburg. The `explore` endpoint will return venues in all categories centered on a set of coordinates within a radius passed to the API.
 
 Since each call is is limited to 100 results, I want to search an area small enough to capture as many venues as possible. The "sandbox" version of the API is limited 950 "regular" API calls (of which `explore` is one) per day.
 
-<img src="assets/rex_grid_blank.png" height="300" align="left">
 To balance the need for granularity with the number of daily API calls I can make, I split the area of interest into a 20 by 20 (200m by 200m) grid, and call the API from the center of each grid section. That should be a small enough grid section size to ensure I don't hit the limit of 100 venues, and it uses less than half of my daily API quota.
 
 ### Data cleaning
@@ -47,9 +46,9 @@ The radius I passed to the API needed to be large enough to inscribe each grid s
 Thirty venue records came back with a blank cateogry. I individually recategorized or deleted these based on whether the venues seemed relevant to our task and on what I could find out about the venue through internet searches.
 
 #### Highly fragmented categories
-<img src="assets/rex_category_tail.png" height="250" align="right">A look at the distribution of categories in the Rexburg venues data revealed a very long tail: of the 213 unique categories, over 170 appeared in fewer than 5 venue records. This long tail would make it more difficult for the model to cluster venues in these low-frequency categories. Also, venue-level categories proved too granular for some of my analysis. For example, I wanted to see all places relating to food, but "grocery stores" and "Mexican Restaurants" were in separate categories, and even at different hierarchy levels.
+<img src="assets/rex_category_tail.png" height="250" align="left">A look at the distribution of categories in the Rexburg venues data revealed a very long tail: of the 213 unique categories, over 170 appeared in fewer than 5 venue records. This long tail would make it more difficult for the model to cluster venues in these low-frequency categories. Also, venue-level categories proved too granular for some of my analysis. For example, I wanted to see all places relating to food, but "grocery stores" and "Mexican Restaurants" were in separate categories, and even at different hierarchy levels.
 
-<img src="assets/rex_venues_3types.png" height="300" align="left">To address this issue, I retrieved the category hierarchy from the Foursquare API and added category groups (hierarchy level 1) and venue types (hierarchy level 0) to the dataset, enabling me to roll up the data. This allows visualizations like the one nearby, which shows
+<img src="assets/rex_venues_3types.png" height="300" align="right">To address this issue, I retrieved the category hierarchy from the Foursquare API and added category groups (hierarchy level 1) and venue types (hierarchy level 0) to the dataset, enabling me to roll up the data. This allows visualizations like the one nearby, which shows
 - residential venues in blue,
 - food venues in red, and
 - recreational venues in green.
@@ -70,7 +69,7 @@ Since both metrics accommodated five clusters, I used that hyperparameter in the
 Our production model produces the following clusters of grid sections, with a silhouette score of 0.587.
 
 <img src="assets/rex_grid_clusters.png" height="500">
-<br><br>
+<br>
 To suss out the distinguishing features of each cluster, I mapped average venue count per grid section against cluster and venue category types to produce a heatmap.
 <img src="assets/rex_heatmap.png">
 
