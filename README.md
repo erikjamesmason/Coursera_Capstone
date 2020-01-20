@@ -46,9 +46,9 @@ The radius I passed to the API needed to be large enough to inscribe each grid s
 Thirty venue records came back with a blank cateogry. I individually recategorized or deleted these based on whether the venues seemed relevant to our task and on what I could find out about the venue through internet searches.
 
 #### Highly fragmented categories
-<img src="assets/rex_category_tail.png" height="250" align="left">A look at the distribution of categories in the Rexburg venues data revealed a very long tail: of the 213 unique categories, over 170 appeared in fewer than 5 venue records. This long tail would make it more difficult for the model to cluster venues in these low-frequency categories. Also, venue-level categories proved too granular for some of my analysis. For example, I wanted to see all places relating to food, but "grocery stores" and "Mexican Restaurants" were in separate categories, and even at different hierarchy levels.
+<img src="assets/rex_category_tail.png" height="200" align="left">A look at the distribution of categories in the Rexburg venues data revealed a very long tail: of the 213 unique categories, over 170 appeared in fewer than 5 venue records. This long tail would make it more difficult for the model to cluster venues in these low-frequency categories. Also, venue-level categories proved too granular for some of my analysis. For example, I wanted to see all places relating to food, but "grocery stores" and "Mexican Restaurants" were in separate categories, and even at different hierarchy levels.
 
-<img src="assets/rex_venues_3types.png" height="300" align="right">To address this issue, I retrieved the category hierarchy from the Foursquare API and added category groups (hierarchy level 1) and venue types (hierarchy level 0) to the dataset, enabling me to roll up the data. This allows visualizations like the one nearby, which shows
+<img src="assets/rex_venues_3types.png" height="250" align="right">To address this issue, I retrieved the category hierarchy from the Foursquare API and added category groups (hierarchy level 1) and venue types (hierarchy level 0) to the dataset, enabling me to roll up the data. This allows visualizations like the one nearby, which shows
 - residential venues in blue,
 - food venues in red, and
 - recreational venues in green.
