@@ -17,7 +17,7 @@ I'll also pull information from the `categories` endpoint to recreate Foursquare
 ## Methodology
 ### Define the geographic area of interest
 <img src="assets/rex_square.png" height="300" align="right">
-Since my objective is to help a prospective college student who'll be moving to Rexburg get familiar with the town's resdiential, food, and recreation options, we'll arbitrarily choose a <img src="https://render.githubusercontent.com/render/math?math=4km\times4km"> square centered around the college campus.
+Since my objective is to help a prospective college student who'll be moving to Rexburg get familiar with the town's resdiential, food, and recreation options, we'll arbitrarily choose a ![4km\times4km](https://render.githubusercontent.com/render/math?math=4km%5Ctimes4km) square centered around the college campus.
 
 The coordinates of the four corners of this square are:
 
@@ -34,7 +34,7 @@ I used the [Foursquare API](https://developer.foursquare.com/places) to retrieve
 Since each call is is limited to 100 results, I want to search an area small enough to capture as many venues as possible. The "sandbox" version of the API is limited 950 "regular" API calls (of which `explore` is one) per day.
 
 <img src="assets/rex_grid_blank.png" height="300" align="right">
-To balance the need for granularity with the number of daily API calls I can make, I split the area of interest into a <img src="https://render.githubusercontent.com/render/math?math=$20\times20$"> grid (<img src="https://render.githubusercontent.com/render/math?math=$200m\times200m">), and call the API from the center of each grid section. That should be a small enough grid section size to ensure I don't hit the limit of 100 venues, and it uses less than half of my daily API quota.
+To balance the need for granularity with the number of daily API calls I can make, I split the area of interest into a ![20\times20](https://render.githubusercontent.com/render/math?math=20%5Ctimes20) (![200m\times200m](https://render.githubusercontent.com/render/math?math=200m%5Ctimes200m) grid, and call the API from the center of each grid section. That should be a small enough grid section size to ensure I don't hit the limit of 100 venues, and it uses less than half of my daily API quota.
 
 ### Data cleaning
 The data required cleaning in three main areas.
@@ -61,7 +61,7 @@ After testing several grid sizes, I selected a $15\times15$ grid for modeling. I
 
 Silhouette score dipped at 2 clusters, which felt like too few, and then again at 8 clusters. <img src="assets/rex_silhouette_score.png" height="300">
 
-The inertia plot was fairly smooth, with no obvious elbow, although if I squinted a bit, I saw one at <img src="https://render.githubusercontent.com/render/math?math=$k=5$">.
+The inertia plot was fairly smooth, with no obvious elbow, although if I squinted a bit, I saw one at ![k=5](https://render.githubusercontent.com/render/math?math=k%3D5).
 <img src="assets/rex_inertia.png" height="300">
 
 Since both metrics accommodated five clusters, I used that hyperparameter in the production model.
